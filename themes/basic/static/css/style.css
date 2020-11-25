@@ -9,7 +9,7 @@ main, header, footer {
 }
 
 @media screen and (min-width: 500px) {
-  .main {
+  main, header, footer {
     max-width: 40rem;
   }
 }

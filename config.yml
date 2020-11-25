@@ -1,16 +1,5 @@
-backend:
-  name: git-gateway
-collections:
-  - name: 'pages'
-    label: 'Pages'
-    folder: 'content/pages'
-    create: true
-    slug: '{{slug}}'
-    nested:
-      depth: 100
-    editor:
-      preview: true
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-    meta: { path: { widget: string, label: 'Path', index_file: 'index' } }
+baseURL: 'https://bedstuystrong.com/'
+languageCode: en-us
+title: Bed-Stuy Strong
+theme: basic
+
