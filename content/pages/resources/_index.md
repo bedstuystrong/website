@@ -3,11 +3,11 @@ title: Resources
 ---
 #### Navigation
 
-*   [Delivery options](#delivery)
-*   [Meal pick-up options in Bed-Stuy](#meal-pickup)
-*   [Grocery pick-up options in Bed-Stuy](#grocery-pickup)
-*   [Food assistance in other neighborhoods](#elsewhere)
-*   [Other mutual aid funds](#other)
+*   [Delivery options](#delivery-options-for-those-who-cannot-leave-their-homes-safely-at-the-moment)
+*   [Meal pick-up options in Bed-Stuy](#meal-pick-up-options-in-bed-stuy)
+*   [Grocery pick-up options in Bed-Stuy](#grocery-pick-up-options-in-bed-stuy)
+*   [Food assistance in other neighborhoods](#additional-food-assistance-options-for-residents-of-other-neighborhoods)
+*   [Other mutual aid funds](#other-mutual-aid-funds)
 
 ### Delivery options for those who cannot leave their homes safely at the moment
 
@@ -45,7 +45,7 @@ title: Resources
 *   Note that customers may be responsible for the cost of groceries as well as delivery charges.
 *   The list is available here: [https://www1.nyc.gov/assets/dsny/downloads/pdf/covid/Grocery%20Delivery%20Options.pdf](https://www1.nyc.gov/assets/dsny/downloads/pdf/covid/Grocery%20Delivery%20Options.pdf)
 
-### Meal pick-up options in Bed-Stuy [↳](#top)
+### Meal pick-up options in Bed-Stuy
 
 #### World Central Kitchen @ Cornerstone Baptist Church (574 Madison St)
 
@@ -93,7 +93,7 @@ title: Resources
 *   Required to wear masks. No photo ID required.
 *   Call (718) 622-0614 to confirm hours
 
-### Grocery pick-up options in Bed-Stuy [↳](#top)
+### Grocery pick-up options in Bed-Stuy
 
 #### City Harvest Bed-Stuy Mobile Market (@ Tompkins Houses)
 
@@ -174,7 +174,7 @@ title: Resources
 
 Additional information and resources in Bed-Stuy are listed in the [Food Resource Guide](https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/) compiled by the NYC Food Policy Center: [https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/](https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/)
 
-### Additional food assistance options for residents of other neighborhoods [↳](#top)
+### Additional food assistance options for residents of other neighborhoods
 
 #### “Get Food NYC” / DOE Grab and Go program @ various locations (see below)
 
@@ -220,7 +220,7 @@ Other mutual aid groups in Central Brooklyn include:
     *   For residents of Park Slope and Central Brooklyn
     *   Call (732) 659-4371 for support
 
-### Other mutual aid funds [↳](#top)
+### Other mutual aid funds
 
 *   [Restaurant workers emergency fund](https://www.restaurantworkerscf.org/)
 *   [New York emergency COVID-19 Relief for sex workers](https://www.swopbrooklyn.org/apply-for-aid)
