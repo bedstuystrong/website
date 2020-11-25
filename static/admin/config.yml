@@ -7,11 +7,11 @@ collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
-    folder: 'content/pages'
+    folder: 'content/'
     create: true
     slug: '{{slug}}'
     nested:
-      depth: 100
+      depth: 10
     editor:
       preview: true
     fields:
