@@ -7,6 +7,7 @@ collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
+    description: '{{path}}'
     folder: 'content/'
     create: true
     slug: '{{slug}}'
