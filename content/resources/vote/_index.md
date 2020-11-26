@@ -1,4 +1,0 @@
----
-title: Voter Resources
----
-content
