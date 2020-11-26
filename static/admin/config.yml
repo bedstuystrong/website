@@ -7,10 +7,10 @@ collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
-    description: '{{meta.path}}'
     folder: 'content/'
     create: true
     slug: '{{slug}}'
+    summary: '{{title}} ({{meta.path}})'
     nested:
       depth: 10
     editor:
