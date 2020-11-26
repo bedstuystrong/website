@@ -10,7 +10,7 @@ collections:
     folder: 'content/'
     create: true
     slug: '{{slug}}'
-    summary: '{{title}} ({{meta.path}})'
+    summary: '{{title}} ({{dirname}})'
     nested:
       depth: 10
     editor:
