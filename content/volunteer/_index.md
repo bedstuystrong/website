@@ -1,14 +1,6 @@
 ---
 title: Volunteer
-custom_css: |-
-  main {
-    margin: 0;
-  }
-
-  main > :not(iframe) {
-    margin-left: 2rem;
-    margin-right: 2rem;
-  }
+custom_css: ""
 ---
 ## About Us
 
