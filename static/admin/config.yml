@@ -18,4 +18,11 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Custom CSS'
+        name: 'custom_css'
+        required: false
+        widget: 'code'
+        default_language: 'css'
+        allow_language_selection: false
+        output_code_only: true
     meta: { path: { widget: string, label: 'Path', index_file: '_index' } }
