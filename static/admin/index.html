@@ -13,6 +13,40 @@
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script>
     CMS.registerPreviewStyle('/css/style.css');
+
+    const preStyle = {
+      display: 'block',
+      backgroundColor: 'rgba(0, 0, 0, 0.05)',
+      margin: 0,
+      padding: '0.25rem 2rem',
+    };
+
+    const PagePreview = createClass({
+      componentDidMount: function() {
+        this.styleTag = this.props.document.createElement('style');
+        this.styleTag.innerHTML = this.props.entry.getIn(['data', 'custom_css']);
+        this.props.document.head.appendChild(this.styleTag);
+      },
+      componentDidUpdate: function(prevProps) {
+        const customCSS = this.props.entry.getIn(['data', 'custom_css']);
+        const prevCustomCSS = prevProps.entry.getIn(['data', 'custom_css']);
+        if (customCSS !== prevCustomCSS) {
+          this.styleTag.innerHTML = customCSS;
+        } 
+      },
+      render: function() {
+        const entry = this.props.entry;
+        const path = entry.getIn(['meta', 'path']);
+        const url = path && `https://bedstuystrong.com/${path}`;
+        
+        return h('div', {},
+          h('pre', { style: preStyle }, url),
+          h('main', {}, this.props.widgetFor('body')),
+        );
+      }
+    });
+
+    CMS.registerPreviewTemplate('pages', PagePreview);
   </script>
 </body>
 
