@@ -5,7 +5,7 @@
   {{ if .IsHome }}{{ $title = .Site.Title }}{{ end }}
   <title>{{ $title }}</title>
   <link rel="stylesheet" type="text/css" href="/css/style.css">
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {{ if .IsHome }}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{{ end }}
   <style type="text/css">{{ $.Param "custom_css" | safeCSS }}</style>
   {{- block "head" . }}{{- end }}
 </head>

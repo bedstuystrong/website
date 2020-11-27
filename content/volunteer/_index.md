@@ -10,5 +10,4 @@ If you’re interested in joining us, please sign up to volunteer! If you're not
 
 ![Map of Bed-Stuy Quadrants. North/south boundary is Gates Ave, NW/NE boundary is Tomkins Ave, SW/SE boundary is Marcus Garvey Blvd](/images/uploads/screenshot-2020-11-25-at-12.57.58am.png)
 
-
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrKMvyOmDArZ26kj?backgroundColor=redLight" frameborder="0" onmousewheel="" width="100%" height="3061" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{{< airtable id=shrKMvyOmDArZ26kj height=3061 >}}
