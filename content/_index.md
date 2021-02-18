@@ -44,7 +44,7 @@ We always need more neighbors to help answer our phones and run deliveries to th
 
 Beyond our mutual aid operation, our online Slack community is also a place for neighbors to connect, share information, organize virtual events, and more. In a time of social distancing, Bed-Stuy Strong believes in the power of staying connected as a community.
 
-Not ready for Slack? [Sign up for our newsletter](/newsletter) to get updates on volunteer opportunities, fundraising, and more. If you want to deliver groceries to your neighbors in need without being on Slack, please email operations@bedstuystrong.com and tell us a little bit about you.
+Not ready for Slack? [Sign up for our newsletter](/newsletter) to get updates on volunteer opportunities, fundraising, and more. If you want to deliver groceries to your neighbors in need without being on Slack, please email [operations@bedstuystrong.com](mailto:operations@bedstuystrong.com) and tell us a little bit about you.
 
 ## I’m interested in partnering **or helping locate a physical space**.
 
