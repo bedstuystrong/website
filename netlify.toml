@@ -1,0 +1,20 @@
+[build]
+  publish = 'public'
+  command = 'hugo --gc --minify'
+
+[[redirects]]
+  from = "/volunteer"
+  to = "/membership"
+  status = 302
+[[redirects]]
+  from = "/political-commitments"
+  to = "https://docs.google.com/document/d/1PlOmJWFEDyH3ppUrV_hJYM5Vd6O8cFJeDfHEDvdDjf4/edit"
+  status = 302
+[[redirects]]
+  from = "/political-positions"
+  to = "https://docs.google.com/document/d/1PlOmJWFEDyH3ppUrV_hJYM5Vd6O8cFJeDfHEDvdDjf4/edit"
+  status = 302
+[[redirects]]
+  from = "/systems"
+  to = "https://docs.google.com/document/d/1b9RVSexqztRlLpDPT603UTORNUpkhJXtXq8BPHH_mTw/edit"
+  status = 302
