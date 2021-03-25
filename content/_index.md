@@ -11,11 +11,9 @@ Given the times, Bed-Stuy Strong faces an incredible amount of need in our commu
 
 ## I am in need.
 
-If you live in Bed-Stuy and are experiencing hunger, please leave us a voicemail or send a text message to [917-451-5522](tel:9174515522). We will call you back to coordinate a no-contact delivery of essential groceries or medical supplies.
+If you live in Bed-Stuy and are experiencing hunger, please leave us a voicemail or send a text message to [917-451-5522](tel:9174515522). We will call you back to coordinate a no-contact delivery of essential groceries or medical supplies. 
 
-Our thoughts are with you and we apologize that we can’t meet your request immediately. We have received thousands of messages and respond in the order that requests are received, so there is no need to leave multiple voicemails. 
-
-As of mid-January 2021, we have moved to a system where we have a set number of weekly food delivery slots, based on the number of people who can deliver. Our phone line opens once a week, and closes once we have reached our capacity to deliver for the week; you can call [917-451-5522](tel:9174515522) to find out what date and time the phone line will open. 
+As of mid-January 2021, we have moved to a set number of weekly food delivery slots based on the number of people who can deliver and to avoid a long wait time for delivery. Our phone line opens Wednesdays at 3PM and closes once we have reached our capacity to deliver for the week. We apologize that we can’t meet your request immediately. We respond in the order that requests are received, so there is no need to leave multiple voicemails.
 
 We understand that you might need food quicker than we can get it to you. If you are experiencing hunger right now, please see our below list of food resources in Bed-Stuy or go to [NYC.gov/getFood](http://nyc.gov/getFood). If you would like to hear a list of these resources over the phone, please call [917-451-5522](tel:9174515522). Thank you for your patience. Our thoughts are with you.
 
@@ -38,13 +36,30 @@ We accept financial donations using any of these platforms:
 
 **We are now able to accept tax-deductible credit card and check donations through [our ioby page](https://ioby.org/bedstuystrong).** To donate by check, [mail a check to ioby](https://support.ioby.org/a/1220776-can-i-donate-to-an-ioby-campaign-by-check-or-cash).
 
-## I want to **join Bed-Stuy Strong**.
+## What is mutual aid?
 
-We always need more neighbors to help answer our phones and run deliveries to those in need. If you’re interested in joining us, please [send us an email at bedstuystrong+slack@bedstuystrong.com](mailto:bedstuystrong+slack@bedstuystrong.com). You will receive an email with instructions, and a Bed-Stuy Strong organizer will review your email and help onboard you. We appreciate your support.
+Many definitions exist, but a simple one is: voluntary, often reciprocal care + support exchanged between people of a community, in a horizontal way, with solidarity and joined hands. We do our work in the shadow of powerful organizing from the Black Panthers’ free clinics to abolitionist networks, and the legacy of neighbors helping neighbors that has existed in Bed-Stuy since time immemorial.
 
-Beyond our mutual aid operation, our online Slack community is also a place for neighbors to connect, share information, organize virtual events, and more. In a time of social distancing, Bed-Stuy Strong believes in the power of staying connected as a community.
+## I want to join. What’s next?
 
-Not ready for Slack? [Sign up for our newsletter](/newsletter) to get updates on volunteer opportunities, fundraising, and more. If you want to deliver groceries to your neighbors in need without being on Slack, please email [operations@bedstuystrong.com](mailto:operations@bedstuystrong.com) and tell us a little bit about you.
+We welcome anyone with strong ties to Bed-Stuy (current resident of, working in, family home, etc.) to become a member of the BSS community. Our members come from all walks of life, from service workers to software engineers to artists to full-time parents and caretakers, and represent a mix of newer and longstanding residents of Bed-Stuy.
+
+We ask each other for help when we need it, and provide support when able to, in a spirit of solidarity and resourcefulness aligned with our guiding principles. The aid we offer each other shows up in a variety of ways, whether it’s collecting and redistributing supplies, providing social support, learning from one another about the political moment, or posting photos of our pets to make each other smile.
+
+### How does membership work?
+
+We communicate, co-envision, organize, and share asks, offers, community news, volunteer and advocacy opportunities through these channels:
+
+* BSS Members Hub (an online website including community calendar, volunteer opportunities)
+* Slack (an online forum for organizing and coordinating)
+* [Email newsletter](https://bedstuystrong.com/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
+* Text message updates (optional)
+
+We do not require membership fees to join Bed-Stuy Strong, though some of our members choose to give back by contributing to our community fund.
+
+### Ready to be a BSS member?
+
+[Sign up here!](https://bedstuystrong.com/membership) We’re excited to be in community with you.
 
 ## I’m interested in partnering **or helping locate a physical space**.
 
