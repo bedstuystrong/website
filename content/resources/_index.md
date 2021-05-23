@@ -1,7 +1,9 @@
 ---
 title: Resources
-custom_css: "h1 {margin-top: 1.5rem;}"
+custom_css: "h1 {margin-top: 2.5rem;}"
 ---
+# Food Resources
+
 #### Navigation
 
 * [Mutual Aid Resources](#mutual-aid-resources)
