@@ -112,8 +112,9 @@ title: Resources
 * Status: open
 * ID Required: yes
 * Hours: 
-* Pantry: Monday-Thursday 8am-1pm
-* Soup kitchen: Monday-Thursday 10am-12pm
+
+  * Pantry: Monday-Thursday 8am-1pm
+  * Soup kitchen: Monday-Thursday 10am-12pm
 
 **Open Door Family Life Center**
 
@@ -147,10 +148,10 @@ title: Resources
 * Phone: (718) 938-4532
 * Status: open
 * ID Required: no
-* Hours: 
-* Pantry: Wednesday, Friday 9:30AM-10:30AM
-* Soup kitchen: Wednesday, Thursday, and Friday, 11am-1pm
 * First-time visitors must provide proof of address and family composition
+* Hours: 
+  * Pantry: Wednesday, Friday 9:30AM-10:30AM
+  * Soup kitchen: Wednesday, Thursday, and Friday, 11am-1pm
 
 **P.S. 297 Abraham Stockton**
 
