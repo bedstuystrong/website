@@ -3,225 +3,775 @@ title: Resources
 ---
 #### Navigation
 
-*   [Delivery options](#delivery-options-for-those-who-cannot-leave-their-homes-safely-at-the-moment)
-*   [Meal pick-up options in Bed-Stuy](#meal-pick-up-options-in-bed-stuy)
-*   [Grocery pick-up options in Bed-Stuy](#grocery-pick-up-options-in-bed-stuy)
-*   [Food assistance in other neighborhoods](#additional-food-assistance-options-for-residents-of-other-neighborhoods)
-*   [Other mutual aid funds](#other-mutual-aid-funds)
+* Mutual Aid Resources
+* Map of Pantries and Grab and Go Meals
+* Food Pantries
+* Dept. of Education Grab and Go Meal Sites
+* Delivery Services
+* Food Stamps (SNAP)
+* WIC
 
-### Delivery options for those who cannot leave their homes safely at the moment
+# Mutual Aid Resources
 
-#### NYC Food Delivery Assistance
+**Mutual Aid NYC**
 
-*   The City of New York is providing assistance to New Yorkers during the COVID-19 crisis by delivering free meals to those who cannot access food themselves. This service is intended for individuals and families who meet all of the following criteria as a result of the COVID-19 emergency:
-*   No members of the household can go out and get food because they are at increased medical risk or homebound
-*   No neighbors or family members can go out and get food for you
-*   Do not receive meal assistance from other providers (incl. Meals on Wheels or God's Love We Deliver); and
-*   You are unable to afford meal delivery or grocery delivery
-*   Households that qualify may order three days of food at a time for up to a month. All orders will be delivered within three days of the order date. Each delivery will contain three days of food (9 meals per person, but no household will receive more than 18 meals per delivery).
-*   To access, create an account at this website: [https://cv19engagementportal.cityofnewyork.us/#/display/5e7555117ad6750216160409](https://cv19engagementportal.cityofnewyork.us/#/display/5e7555117ad6750216160409), or call 3-1-1
+* We always recommend contacting [Mutual Aid NYC](https://mutualaid.nyc/) for more options: [(646) 437-8080](tel:6464378080). 
+* They have live operators available with these hours:
 
-#### Corona Couriers
+| English                  | Spanish / Español         |
+| ------------------------ | ------------------------- |
+| Monday to Thursday 2-8pm | Mon / Tues / Thurs: 5-8pm |
+| Friday 2-5pm             | Weds: 2-8pm               |
+|                          | Fri: 2-5pm                |
 
-*   Volunteers provide free contactless delivery of groceries and supplies to at-risk community members.
-*   Note, while there is no charge for delivery, households must cover the cost of groceries or supplies.
-*   Deliveries available city-wide, though Bronx capacity is limited.
-*   To request a delivery, either:
-*   Call (929) 320-0660
-*   OR email [coronacouriers@protonmail.com](mailto:coronacouriers@protonmail.com)
-*   OR fill out a delivery request form at this website: [https://coronacourier.nyc/#/](https://coronacourier.nyc/#/)
+7 more languages represented, hours [here](https://mutualaid.nyc/i-need-help/#hotline).
 
-#### Invisible Hands Delivery Service
+**Club A Grocery Redistribution**
 
-*   Volunteers provide free contactless delivery of groceries and supplies to the most at-risk community members facing COVID-19. This effort is focused most prominently on the elderly, disabled, and immunocompromised, but is available to help anyone in need.
-*   Note, while there is no charge for delivery, households must cover the cost of groceries or supplies.
-*   To request a delivery, either:
-*   Call (732) 639-1579
-*   OR fill out a delivery request form at this website: [https://invisiblehandsdeliver.org/request-a-delivery](https://invisiblehandsdeliver.org/request-a-delivery)
+* Club A is an anarchist mutual aid group doing weekly grocery redistributions
+* When: Wednesdays and Saturdays 11am-4pm
+* Where: Bushwick City Farms (354 Stockton St, Brooklyn, NY 11206)
+* More info: [instagram.com/club_a_nyc](https://www.instagram.com/club_a_nyc/)
 
-#### NYC Region-Based Grocery Delivery
+**Feed the People Bed-Stuy**
 
-*   The City compiled a list of home delivery grocery options from local and national businesses. This directory is meant to identify options for New Yorkers to purchase fresh produce. The City of New York does not endorse the companies in the directory.
-*   Note that customers may be responsible for the cost of groceries as well as delivery charges.
-*   The list is available here: [https://www1.nyc.gov/assets/dsny/downloads/pdf/covid/Grocery%20Delivery%20Options.pdf](https://www1.nyc.gov/assets/dsny/downloads/pdf/covid/Grocery%20Delivery%20Options.pdf)
+* What: grocery and meal distributions
+* Where: Herbert Von King Park
+* When: Saturdays at 3pm
+* More info: [instagram.com/feedthepeople_bedstuy](https://www.instagram.com/feedthepeople_bedstuy/) 
 
-### Meal pick-up options in Bed-Stuy
+# Map of Pantries and Grab and Go Meals
 
-#### World Central Kitchen @ Cornerstone Baptist Church (574 Madison St)
+<iframe src="https://www.google.com/maps/d/embed?mid=1VfB3n1ODsHA4X0NziaW484csOR3j_cxq" width="640" height="480" frameborder="0"></iframe>
 
-*   Free, fresh, individually packaged grab-and-go meals for local families
-*   These meals are available to anyone in the area who needs extra support during this uncertain time
-*   Available at Cornerstone Baptist Church, 574 Madison St, each day from noon until supplies run out
+# Food Pantries
 
-#### “Get Food NYC” / DOE Grab and Go program @ various locations (see below)
+### Northeast 
 
-*   Three free meals a day for pick-up from local schools. Note: these are school lunches so might not fully satisfy a hungry adult.
-*   Available Monday through Friday for any youth and adults in need; no registration or identification required. Pick-up for children and families from 7:30am-1:30pm. Pick-up for adults from 11:30am to 1:30pm
-*   Locations in Bed-Stuy:
+**RiseBoro Community Partnership - Wellness Rising**
 
-    *   P.S. 256 Benjamin Banneker (114 Kosciuszko St)
-    *   P.S. 297 Abraham Stockton (700 Park Ave)
-    *   Brighter Choice Community School (280 Hart St)
-    *   P.S. 081 Thaddeus Stevens (990 DeKalb Ave)
-    *   P.S. 309 The George E. Wibecan Prep (794 Monroe St)
-    *   P.S. 308 Clara Cardwell (616 Quincy St)
-    *   P.S. 044 Marcus Garvey (432 Monroe St)
-    *   P.S. 120 Carlos Tapia (18 Beaver St)
-    *   P.S. 380 John Wayne Elementary (370 Marcy Ave)
-    *   P.S. 157 Benjamin Franklin (850 Kent Ave)
-    *   P.S. 005 Dr. Ronald Mcnair (820 Hancock St)
-    *   P.S. 021 Crispus Attucks (180 Chauncey St)
-    *   Brooklyn Landmark Elementary School (251 MacDougal St)
-    *   Leadership Prep Bedford Stuyvesant Charter School (141 Macon St)
+* Address: 518 Bushwick Ave, Brooklyn, NY 11206
+* Phone: (917) 810-3156 or (512) 758-2387
+* Status: open
+* ID required: no
+* Hours: Tuesdays 12-3pm
+* FRESH PRODUCE ONLY
 
-*   For locations in other parts of NYC, or for sites offering Kosher and Halal meals, please see:  [https://www.schools.nyc.gov/school-life/food/free-meals](https://www.schools.nyc.gov/school-life/food/free-meals), or call 3-1-1
+**City Harvest Mobile Market**
 
-#### Meal pick-up @ St. John’s Bread and Life (795 Lexington Ave)
+* Address: 921 Myrtle Ave (Handball Court of Tompkins Houses), Brooklyn, NY 11206
+* P: (646) 412-0729
+* ID required: no
+* Status: open
+* Hours: 1st Saturday and 3rd Wednesday of each month from 11am-1pm
 
-*   Combined breakfast and lunch bags available Mondays-Thursdays (10am-noon)
-*   No registration required
-*   Call (718) 574-0058 to confirm hours
+**Black Veterans for Social Justice**
 
-#### Meal pick-up @ Neighbors Together (2094 Fulton St)
+* Address: 665 Willoughby Ave, Brooklyn, NY 11206
+* Phone: (718) 852-6004
+* ID required: no
+* Status: open
+* Hours: Wednesdays, 1pm-3pm or until food runs out
 
-*   Open Monday through Friday (noon-2pm)
-*   Call (718) 498-7256 to confirm hours
+**St. John the Baptist Roman Catholic Church**
 
-#### Soup kitchen @ Salvation Army - Bedford Temple Corps (601 Lafayette Ave)
+* Address: 333 Hart St
+* Phone: (718) 455-6864
+* ID required: no
+* Status: open
+* Hours: Tuesdays 8am-3pm
 
-*   Open Thursdays (10am-2pm, or earlier if availability runs out)
-*   Required to wear masks. No photo ID required.
-*   Call (718) 622-0614 to confirm hours
+**Metro World Child**
 
-### Grocery pick-up options in Bed-Stuy
+* Address: 871 Bushwick Ave
+* Phone: (718) 453-3352
+* ID required: no
+* Staus: open
+* Hours: Saturdays, 10am-12:30pm
 
-#### City Harvest Bed-Stuy Mobile Market (@ Tompkins Houses)
+**Overcoming Love Ministries - Pulaski Family Residence**
 
-*   The Bed-Stuy Mobile Market is held the 1st Saturday and 3rd Wednesday of each month at the Handball Court of the Tompkins Houses on Myrtle Ave (between Throop and Tompkins Avenues) from 9:30 am – 11:30 am.
-*   You must meet one of the following criteria to be eligible:
-*   Residents of the Sumner, Tompkins, 303 Vernon, or Marcy Houses
-*   Participant in the Sumner Senior Center or Groundwork, Inc.
-*   Resident in zip code 11206
+* Address: 228 Pulaski St, Brooklyn, NY 11206
+* Phone: (718) 443-2267
+* ID required: no
+* Status: open
+* Hours: Tuesdays 10:30am-12pm
 
-#### Food pantry @ St. Stephen Outreach CDC (874 Myrtle Ave)
+**Golden Harvest Food Pantry**
 
-*   Open Wednesdays (9-10:30am), Fridays (11am-1:00pm), first come, first served. Folks are lining up early. Meals and groceries, mostly groceries.
-*   Call (718) 938-4532 to confirm hours
+* Address: 376 Throop Ave, Brooklyn, NY 11221
+* Phone: (718) 453-9490 ext. 224 or (718) 218-7129
+* ID required: yes
+* Status: open
+* Hours: Tuesdays and Thursdays 9am-12pm
+
+**St. John’s Bread and Life Program**
+
+* Address: 795 Lexington Ave, Brooklyn, NY 11221
+* Phone: (718) 574-0058
+* Status: open
+* ID Required: yes
+* Hours: 
+* Pantry: Monday-Thursday 8am-1pm
+* Soup kitchen: Monday-Thursday 10am-12pm
+
+**Open Door Family Life Center**
+
+* Address: 999 Greene Ave, Brooklyn, NY 11221
+* Phone: (718) 455-3545
+* Status: open
+* ID Required: yes
+* Hours: Saturdays, 8:30-10:30am
+
+**Brooklyn Rescue Mission**
+
+* Address: 919 Gates Ave, Brooklyn, NY 11221
+* Phone: (917) 426-3001
+* Status: open
+* ID Required: yes
+* Hours: Tues and Weds, 10-11:45am
+
+**Crossover Baptist Church Community Outreach Help Center - Soup Kitchen**
+
+* Address: 358 Kosciuszko St, Brooklyn, NY 11221
+* Phone: (718) 322-1200
+* Status: open
+* ID required: unknown
+* Hours: Tuesdays 9-11am; Wednesdays 12-2pm; Thursdays 9-11am; Saturdays 12-2pm
+
+### Northwest 
+
+**Greater St. Stephen Church Food Pantry**
 
-#### Food pantry @ Salvation Army - Bedford Temple Corps (601 Lafayette Ave)
+* Address: 874 Myrtle Ave, Brooklyn, NY 11206
+* Phone: (718) 938-4532
+* Status: open
+* ID Required: no
+* Hours: 
+* Pantry: Wednesday, Friday 9:30AM-10:30AM
+* Soup kitchen: Wednesday, Thursday, and Friday, 11am-1pm
+* First-time visitors must provide proof of address and family composition
 
-*   Open Tuesdays and Wednesdays (10am-2pm, or earlier if availability runs out)
-*   Required to wear masks. No photo ID required. Come earlier than 10 because people line up.
-*   Call (718) 622-0614 to confirm hours
+**P.S. 297 Abraham Stockton**
 
-#### Food pantry @ Siloam Presbyterian Church (260 Jefferson Ave)
+* Address: 700 Park Ave, Brooklyn, NY 11206
+* Phone: (718) 388-4581
+* Status: unknown
+* ID Required: unknown
+* Hours: Mondays and Fridays 11am-5pm
 
-*   Open Wednesday (9:30am-12:30pm)
-*   Photo ID, masks and gloves are required
-*   Call (718) 789-7050 to confirm hours
+**Solid Rock Baptist Church**
 
-#### Food pantry @ Food Black Veteran’s for Social Justice (665 Willoughby Ave)
+* Address: 120 Tompkins Ave, Brooklyn, NY 11206
+* Phone: (718) 679-4852
+* Status: open
+* ID Required: yes
+* Hours: Monday and Thursday 9am-12pm
 
-*   Open every second and fourth Friday. Sometimes a line. (9am-3pm)
-*   Call (718) 852-6004 to confirm hours
+**United Grand Chapter of Eastern Star**
 
-#### Food pantry @ Overcoming Love Ministries - Pulaski Family Residence (228 Pulaski St)
+* Address: 441 Willoughby Ave, Brooklyn, NY 11206
+* Phone: (718) 624-2484
+* Status: open
+* ID Required: yes
+* Hours: Fridays 10am-12pm
 
-*   Open Tuesdays (10:30am-noon)
-*   Usually a line; no ID required
-*   Call (718) 443-2267 to confirm hours
+**All People’s Church Apostolic Faith, Inc**
 
-#### St. John’s Food Pantry - Catholic Charities (333 Hart St)
+* Address: 182 Tompkins Ave, Brooklyn, NY 11206
+* Phone: (718) 782-3703
+* Status: open
+* ID Required: unknown
+* Hours: Saturdays 10am-12pm
 
-*   Open Tuesdays (10am-3pm)
-*   Full name required (but no ID)
-*   Call (718) 455-6874 to confirm hours
+**Bridge Street Co Pantry at Sugar Hill Restaurant & Supper Club**
 
-#### Golden Harvest Food Pantry - Northeast Brooklyn Housing Development Corporation (376 Throop Ave)
+* Address: 217 Nostrand Avenue, Brooklyn, NY 11205
+* Phone: 844-369-6811
+* Status: open
+* ID required: unknown
+* Hours: Tuesdays, 8-10am
 
-*   Open Tuesdays and Thursdays (9am - noon)
-*   Call (718) 453-9490 to confirm hours
+**Salvation Army, Bedford Temple Corps - Soup Kitchen**
 
-#### Metro World Child Food Pantry - Metro Ministries International (871 Bushwick Ave)
+* Address: 110 Kosciuszko St, Brooklyn, NY 11216
+* Phone: (718) 398-7971
+* Status: open
+* ID required: no
+* Hours: Thursdays, 10-11am
 
-*   Open Wednesdays - Fridays (10am-11am seniors only; 11am-3pm others)
-*   Call (718) 453-3352 to confirm hours
+**Salvation Army Brooklyn Bedford Corps Community Center**
 
-#### Food pantry @ St. John’s Bread and Life (795 Lexington Ave)
+* Address: 601 Lafayette Ave, Brooklyn, NY 11216
+* Phone: (718) 622-0614
+* Status: open
+* ID required: unknown
+* Hours: Wednesday, 10am-12pm 
 
-*   Pantry open Mondays-Thursdays (8am-noon)
-*   1 bag per family size per week
-*   Returning guests should bring pantry card or have ID and pantry number available. New registrants must bring proof of address, photo IDs for all adults in the household, and identification for all minors in household.
-*   Call (718) 574-0058 to confirm hours
+**Brooklyn Tabernacle Deliverance Center**
 
-#### Food pantry @ Brooklyn Rescue Mission Urban Harvest Center (919 Gates Ave)
+* Address: 600 Lafayette Avenue, Brooklyn, NY 11216
+* Phone: (718) 636-5151 ext. 109 or (973) 768-5344
+* Status: open
+* ID required: yes
+* Hours: Schedule varies, please call number listed before visiting
 
-*   Open Tuesdays and Wednesdays (10am-noon)
-*   Can make reservation on Plentiful app or by texting FOOD or COMIDA to 726879
-*   Call (718) 593-3529 to confirm hours
+**The Migrant Kitchen at Lafayette Gardens**
+
+* Address: 343 Classon Ave, Brooklyn, NY 11205
+* Phone: (917) 747-5601
+* Status: open
+* ID required: no
+* Hours: unknown
 
-#### Food pantry @ Cornerstone Baptist (562-574 Madison St)
+**Child Development Support Corporation**
+
+* Address: 352 Classon Ave, #358, Brooklyn, NY 11238
+* Phone: (718) 398-2050 ext. 8401 or (917) 204-0276
+* Status: open
+* ID required: yes
+* Hours: Thursdays, 11am-3pm
 
-*   Open every other Tuesday (11am-1pm)
-*   Can make reservation on Plentiful app or by texting FOOD or COMIDA to 726879
-*   Call (718) 574-5900 to confirm hours
+**Macedonia Church of Christ**
+
+* Address: 289 Quincy St, Brooklyn, NY 11216
+* Phone: (917) 803-5135
+* Status: open
+* ID required: yes
+* Hours: 2nd and 4th Tuesdays of the month, 12-2pm
 
-#### Food pantry @ Bed-Stuy Campaign Against Hunger (2004 Fulton St)
+### Southeast
+
+**Bridge Street AME Missionary Free Food Program**
 
-*   Open Mondays and Thursdays (10am-3pm)
-*   Open Tuesdays, Wednesdays, and Fridays (10am-6pm)
-*   Call (718) 773-3551 to confirm hours
+* Address: 277 Stuyvesant Ave, Brooklyn, NY 11221
+* Phone: (718) 452-3936
+* Status: unknown
+* ID Required: unknown
+* Hours: Wednesday 11:00AM-1:30PM
+
+**United Methodist Parish, Haitian Evangelical Clergy - Food Pantry**
 
-Additional information and resources in Bed-Stuy are listed in the [Food Resource Guide](https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/) compiled by the NYC Food Policy Center: [https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/](https://www.nycfoodpolicy.org/coronavirus-nyc-food-resource-guide-bedford-stuyvesant/)
+* Address: 1139 Bushwick Avenue, Brooklyn, NY 11221
+* Phone: (718) 574-6610 or (347) 666-3381. Call to verify they're still operational
+* Status: unknown
+* ID Required: unknown
+* Hours: unknown
+
+**The Salvation Army Brooklyn Bushwick Corps Community Center - Soup Kitchen**
 
-### Additional food assistance options for residents of other neighborhoods
+* Address: 1151 Bushwick Ave, Brooklyn, NY 11221
+* Phone: (718) 455-4102
+* Status: unknown
+* ID Required: unknown
+* Hours: Mondays, Tuesdays and Fridays, 10-11:30am
 
-#### “Get Food NYC” / DOE Grab and Go program @ various locations (see below)
+**Faith Assemblies of God - Food Pantry**
 
-*   Three free meals a day for pick-up from local schools. Note: these are school lunches so might not fully satisfy a hungry adult.
-*   Available Monday through Friday for any youth and adults in need; no registration or identification required. Pick-up for children and families from 7:30am-1:30pm. Pick-up for adults from 11:30am to 1:30pm
-*   For locations in other parts of NYC, or for sites offering Kosher and Halal meals, please see: [https://www.schools.nyc.gov/school-life/food/free-meals](https://www.schools.nyc.gov/school-life/food/free-meals), or call 3-1-1
+* Address: 1014 Gates Ave, Brooklyn, NY 11221
+* Phone: (646) 431-9729 or (347) 614-3235
+* Status: open
+* ID required: yes
+* Hours: 
 
-#### To find free food locations near you
+  * Pantry: Saturdays, 9:30am-12pm
+  * Soup kitchen: Saturday, 9:30am-12pm
+
+**Thurston Memorial Outreach Ministries**
 
-*   Text the city’s food pantry phone line - text FOOD or COMIDA to 726879
-*   Visit [https://www.plentifulapp.com/](https://www.plentifulapp.com/)
-*   Or see this map: [https://dsny.maps.arcgis.com/apps/webappviewer/index.html?id=35901167a9d84fb0a2e0672d344f176f](https://dsny.maps.arcgis.com/apps/webappviewer/index.html?id=35901167a9d84fb0a2e0672d344f176f)
+* Address: 1243 Bushwick Ave, Brooklyn, NY 11221
+* Phone: P: (718) 452-3646, (718) 452-3260 or (917) 432-7614
+* Status: open
+* ID required: unknown
+* Hours: Fridays 5-7:30pm
+
+**CORE Services Group**
 
-#### Local mutual aid operations providing emergency food assistance
+* Address: 771 MacDonough St, Brooklyn, NY 11233
+* Phone: (718) 453-3300
+* Status: open
+* ID required: yes
+* Hours: Monday-Friday 9am-4pm
+
+**Cornerstone Baptist Church**
 
-Neighbors in many communities are volunteering to help their neighbors meet basic needs, often by delivering free groceries and other essentials. Note that since these efforts are organized geographically, they may limit the neighborhoods to which they are able to provide support.
+* Address: 574 Madison St, Brooklyn, NY 11221
+* Phone: (718) 574-5900
+* Status: closed
+* ID required: unknown
+* Hours: Tuesdays, 11am-1pm
+
+**St. Philips Episcopal Anglican Church**
 
-A map showing mutual aid groups across the city is available here: [https://mutualaid.nyc/groups/](https://mutualaid.nyc/groups/)
+* Address: 265 Decatur St, Brooklyn, NY 11233
+* Phone: (718) 778-8700
+* Status: open
+* ID required: no
+* Hours: Wednesdays, 9am-1pm
+
+**Faith-Based Food Distribution and Development Corp**
 
-Other mutual aid groups in Central Brooklyn include:
+* Address: 121 Chauncey St, Brooklyn, NY 11233
+* Phone: (917) 995-6891
+* Status: open
+* ID required: no
+* Hours: Saturday 9am-12pm
+* Connected with NYC Public School free meal distribution plan. Must be 18+ to pickup food
 
-*   Clinton Hill/Fort Greene Mutual Aid
-    *   For residents of Clinton Hill and Fort Greene
-    *   Call (862) 277-0747 for support
+**King Emmanuel Community Services**
 
-*   Crown Heights Mutual Aid
-    *   For residents of Crown Heights
-    *   Call (917) 341-7675 for support
+* Address: 207A Bainbridge St, Brooklyn, NY 11233
+* Phone: (718) 733-1650
+* Status: closed
+* ID required: unknown
+* Hours: Thursdays and Fridays, 10:30am-12pm
 
-*   #BrooklynShowsLove Mutual Aid Project
-    *   Based in Flatbush, for residents of all of Brooklyn
-    *   Call (646) 820-6039 for support
+**Union Baptist Church - Food Pantry**
 
-*   Flatbush United
-    *   For residents of Flatbush, Canarsie and South Brooklyn
-    *   Call (347) 970-0276 for support
+* Address: 461 Decatur St, Brooklyn, NY 11233
+* Phone: (718) 455-0204
+* Status: open
+* ID required: no
+* Hours: Wednesdays, 12-2pm
 
-*   Prospect Mutual Aid
-    *   For residents of Prospect-Lefferts Garden
-    *   Call (732) 659-4371 for support
+**Food Distribution Center - Unity Faith Outreach**
 
-*   Park Slope Mutual Aid
-    *   For residents of Park Slope and Central Brooklyn
-    *   Call (732) 659-4371 for support
+* Address: 179 Ralph Avenue, Brooklyn, NY 11233
+* Phone: (718) 443-4194
+* Status: open
+* ID required: no
+* Hours: Fridays, 12-2pm
 
-### Other mutual aid funds
+**Calvary African Methodist Episcopal Church SK**
 
-*   [Restaurant workers emergency fund](https://www.restaurantworkerscf.org/)
-*   [New York emergency COVID-19 Relief for sex workers](https://www.swopbrooklyn.org/apply-for-aid)
-*   [NYC Black Aid COVID-19 Fund](https://docs.google.com/forms/d/e/1FAIpQLSeuzC2S8IU2oL1tqrH-U2DxDegNfe2-JZjrhZots0kV-tr4jA/closedform) (paused until at least May 30th)
+* Address: 790 Herkimer St, Brooklyn, NY 11233
+* Phone: (718) 467-0987
+* Status: open
+* ID required: unknown
+* Hours: Tuesdays, 12-2pm grab and go meals
+
+**The Campaign Against Hunger**
+
+* Address: 2010 Fulton St, Brooklyn, NY 11233
+* Phone: (718) 773-3551
+* Status: open
+* ID required: yes
+* Hours: 
+
+  * Food pantry: Mondays 10am-3pm; Tues-Weds 10am-6pm; Thursdays 10am-3pm; Fridays 10am-6pm
+  * Mobile market: Tuesday and Thursday 3-6pm; Friday 11am-1:30pm
+
+**St. Paul Pentecostal Church**
+
+* Address: 133 Thomas S Boyland St, Brooklyn, NY 11233
+* Phone: (917) 604-9644 or (718) 453-6393
+* Status: open
+* ID required: no
+* Hours: Saturdays 11am-1pm
+
+**Neighbors Together**
+
+* Address: 2094 Fulton St, Brooklyn, NY 11233
+* Phone: (718) 498-7256
+* Status: unknown
+* ID required: unknown
+* Hours: Monday-Friday, 12-2pm: lunch, Monday-Thursday 4-6pm: dinner
+
+**Blessed Assurance Church of God Charity**
+
+* Address: 2093 Fulton St, Brooklyn, NY 11233
+* Phone: (347) 965-1725
+* Status: open
+* ID required: yes
+* Hours: Saturdays, 6-11am
+
+**Calvary Free Will Baptist Church**
+
+* Address: 1520 Herkimer St, Brooklyn, NY 11207
+* Phone: (718) 498-3767
+* Status: unknown
+* ID required: unknown
+* Hours: Wednesdays, 12-2pm and Thursdays, 12-1pm
+
+**True Holy Church of God in Christ Jesus**
+
+* Address: 2364 Atlantic Avenue, Brooklyn, NY 11233
+* Phone: (718) 385-0248
+* Status: open
+* ID required: no
+* Hours: Saturdays, 10am-12pm
+
+**Glover Memorial Baptist Church**
+
+* Address: 2134 Dean St, Brooklyn, NY 11233
+* Phone: (347) 432-3065
+* Status: open
+* ID required: no
+* Hours: 
+
+  * Food pantry: Thursdays, 9-11am
+  * Soup kitchen: Wednesday 12-2pm
+
+**God’s Deliverance Temple Inc**
+
+* Address: 438 Ralph Avenue, Brooklyn, NY 11233
+* Phone: (347) 234-3828
+* Status: open
+* ID required: yes
+* Hours: 1st and 3rd Tuesday of the month, 11am-12pm
+
+**Mt. Lebanon Baptist Church - Soup Kitchen**
+
+* Address: 228 Decatur St, Brooklyn, NY 11233
+* Phone: (718) 493-8770
+* Status: open
+* ID required: yes
+* Hours: Saturdays, 11am-12pm
+
+### Southwest
+
+**Bethel Sunshine Camp**
+
+* Address: 344 Tompkins Ave, Brooklyn, NY 11216
+* Phone: (718) 789-0034 OR (347) 731-6824
+* Status: open
+* ID Required: unknown
+* Hours: Tuesday 7PM-8PM; Friday 7PM-8PM
+
+**St. George’s Episcopal Church**
+
+* Address: 800 Marcy Ave, Brooklyn, NY 11216
+* Phone: (718) 789-6036
+* Status: open
+* ID Required: no
+* Hours: 
+
+  * Pantry: Friday 10:00AM-2:00PM
+  * Soup kitchen: Thursdays 12-2pm
+
+**Mount Hope Pilgrim Spiritual Baptist**
+
+* Address: 416 Nostrand Ave, Brooklyn, NY 11216
+* Phone: (718) 398-1284
+* Status: unknown
+* ID Required: unknown
+* Hours: 
+
+**Siloam Presbyterian Church Food Pantry**
+
+* Address: 260 Jefferson Ave, Brooklyn, NY 11216
+* Phone: (718) 789-7050
+* Status: open
+* ID Required: yes
+* Hours: Weds 9:30am-12:30pm
+
+**Newman Memorial United Methodist Church Community Development Corporation**
+
+* Address: 257 Macon St, Brooklyn, NY 11216
+* Phone: (718) 622-7955, (347) 526-5373
+* Status: open
+* ID Required: yes
+* Hours: Wednesday 10:30AM-2:00PM
+
+**Stuyvesant Heights Christian Church Pantry**
+
+* Address: 69 MacDonough St, Brooklyn, NY 11216
+* Phone: (718) 783-5383
+* Status: open
+* ID required: yes
+* Hours: Thursdays, 5-6pm
+
+**Beulah Church of God in Christ Jesus - Food Pantry**
+
+* Address: 956 Marcy Ave, Brooklyn, NY 11216
+* Phone: (718) 636-8500
+* Status: open
+* ID required: unknown
+* Hours: 
+
+  * Pantry: Tuesdays and Thursdays, 10:30am-2pm
+  * Soup Kitchen: Wednesday, 12:30-2pm
+
+**Hebron French-speaking Seventh Day Adventist Church**
+
+* Address: 1256 Dean St, Brooklyn, NY 11216
+* Phone: (718) 778-6454
+* Status: open
+* ID required: no
+* Hours: 
+
+  * Pantry: 1st and 3rd Wednesday of each month, 9am-12pm
+  * Soup kitchen: Sundays 12:30-2pm
+
+**Bedford Central Presbyterian Church**
+
+* Address: 1200 Dean St, Brooklyn, NY 11216
+* Phone: (718) 467-0740
+* Status: open
+* ID required: no
+* Hours: Thursdays, 1-3pm
+
+# Dept. of Education Grab and Go Meal Sites
+
+### Northeast
+
+**P.S. 120 Carlos Tapia**
+
+* Address: 18 Beaver St, Brooklyn, NY 11206
+* Phone: (718) 443-9402
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**Brighter Choice Community School**
+
+* Address: 280 Hart St, Brooklyn, NY 11206
+* Phone: (718) 453-4081
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**EBC High School for Public Service**
+
+* Address: 1155 Dekalb Avenue, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* Partially accessible
+
+**J.H.S. 057 Whitelaw Reid**
+
+* Address: 125 Stuyvesant Ave, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**P.S. 308 Clara Cardwell**
+
+* Address: 616 Quincy St, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+
+**P.S. 081 Thaddeus Stevens**
+
+* Address: 990 Dekalb Avenue, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+
+### Northwest
+
+**P.S. 256 Benjamin Banneker**
+
+* Address: 114 Kosciuszko St, Brooklyn, NY 11216
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**I.S. 117**
+
+* Address: 300 Willoughby Ave, Brooklyn, NY 11205
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* Kosher available
+* No accessibility
+
+### Southeast
+
+**Brooklyn High School for Law and Technology**
+
+* Address: 1396 Broadway, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* Fully accessible
+
+**P.S. 005 Dr. Ronald McNair**
+
+* Address: 820 Hancock St, Brooklyn, NY 11233
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**Boys and Girls High School**
+
+* Address: 1700 Fulton St, Brooklyn, NY 11213
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* Partial accessibility
+
+**Mott Hall IV**
+
+* Address: 1137 Herkimer St, Brooklyn, NY 11233
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* No accessibility
+
+**Brooklyn Collegiate Preparatory High School: A College Board School**
+
+* Address: 2021 Bergen St, Brooklyn, NY 11233
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+* Partially accessible
+
+### Southwest
+
+**P.S. 044 Marcus Garvey**
+
+* Address: 432 Monroe St, Brooklyn, NY 11221
+* Status: open
+* ID required: no
+* Hours: M-F 3-5pm
+
+# Delivery Services
+
+**Invisible Hands**
+
+* Volunteers provide free, contactless delivery of groceries and supplies to the most at-risk community members facing COVID-19. This effort is focused primarily on the elderly, disabled, and immunocompromised, but is available to help anyone in need
+* Household must cover the cost of groceries. Volunteers can also go to pantries for you
+* To request a delivery:
+
+  * Call [(732) 639-1579](tel:7326391579), OR 
+  * Fill out a delivery request form here: <https://invisiblehandsdeliver.org/request-a-delivery> 
+
+**Get Food NYC: Food Delivery Assistance**
+
+* The City of New York is providing meals and/or shelf-stable items to families who meet all of the following criteria as a result of the COVID-19 emergency:
+* No members of the household can go out and get food because they are at increased medical risk or homebound
+* No neighbors or family members can go out and get food for you
+* You do not receive meal assistance from other providers, including Meals on Wheels or God’s Love We Deliver; and
+* You are unable to afford meal delivery or grocery delivery
+* Households that qualify may order 3 days of food at a time for up to a month. Unfortunately, the city does not have the capacity to allow for client selection of what will go in the boxes they receive
+* To register:
+
+  * Call 311, OR
+  * Create an account here: <https://cv19engagementportal.cityofnewyork.us/#/display/5e7555117ad6750216160409>
+
+# Food Stamps (SNAP)
+
+### About
+
+* The Supplemental Nutritional Assistance Program (SNAP) or “Food Stamps” is a program designed to provide direct assistance in purchasing food from grocery stores, bodegas, and many farmer’s markets
+* There are specific income requirements for participation in the program. You can learn more [here](https://www1.nyc.gov/assets/hra/downloads/pdf/services/snap/eligibility_factors_and_suggested_documentation_guide.pdf)
+
+### How to Apply
+
+* Online via Access HRA: <https://a069-access.nyc.gov/accesshra/> 
+* Via phone by calling 311
+
+### Organizations providing registration assistance
+
+These organizations will help you collect documentation, determine eligibility, and answer any questions you might have.
+
+**Bedford-Stuyvesant Restoration Corporation**
+
+* Address: 1368 Fulton St, Brooklyn, NY 11216
+* Phone: [(718) 636-6900](tel:7186366900)
+* Status: regular operations
+* Languages: English and Spanish
+* Hours: M-F 9am-5pm
+* Website: <https://restorationplaza.org/> 
+
+**Bedford-Stuyvesant Family Health Center - WIC Program**
+
+* Address: 20 New York Avenue, Brooklyn, NY 11216
+* Phone: [(718) 857-4268](tel:7188574268)
+* Status: phone/virtual operations
+* Languages: English, Bengali, French, Haitian Creole, Spanish
+* Hours: MWF 9am-5pm and Tuesday Thursday 9am-6pm
+* Website: <https://www.bsfhc.org/contact> 
+
+**St. John’s Bread and Life Program - Single Stop**
+
+* Address: 795 Lexington Avenue, Brooklyn, NY 11221
+* Phone: [(718) 574-0058](tel:7185740058) ext. 125
+* Status: phone/virtual operations
+* Languages: English and Spanish
+* Hours: M-Thu 8am-2pm
+* Website: <https://www.tbh.org/outpatient-care/wic-main-campus> 
+
+**Your Network Caring Community Advocate (YNCCA) - Brooklyn**
+
+* Address: 16 Sumner Place, Brooklyn, NY 11206
+* Phone: [(917) 335-5757](tel:9173355757)
+* Status: phone/virtual
+* Languages: English
+* Hours: M-Thu 9am-7pm
+
+**Bed-Stuy Campaign Against Hunger**
+
+* Address: 2010 Fulton St, Brooklyn, NY 11233
+* Phone: [(718) 773-3551](tel:7187733551) ext. 112
+* Status: regular and phone/virtual operations
+* Languages: English and Spanish
+* Hours: M and Thu 10am-4pm; Tues, Weds and Fri 10am-6pm
+* Website: <https://www.tcahnyc.org/> 
+
+**Neighbors Together**
+
+* Address: 2094 Fulton St, Brooklyn, NY 11233
+* Phone: [(718) 498-7256](tel:7184987256)
+* Status: phone/virtual operations
+* Languages: English
+* Hours: M-Thu 9am-6pm; Fri 9am-3pm
+* Website: <https://neighborstogether.org/> 
+
+# WIC
+
+### About
+
+* WIC is a supplemental nutritional program designed to assist pregnant folks and families with children under age 5
+* You will need to submit documentation proving your identity and that you are in one of the categories listed above
+* Formula is included in the package of items covered
+
+### How to Apply
+
+Find your local WIC agency (options listed below), or call the Growing Up Healthy Hotline at [(800) 522-5006](tel:8005225006)
+
+### Where to Apply
+
+Bedford-Stuyvesant Family Health Center - WIC Program
+
+* Address: 20 New York Avenue, Brooklyn, NY 11216
+* Phone: [(718) 857-4268](tel:7188574268)
+* Status: phone/virtual operations
+* Languages: English, Bengali, French, Haitian Creole, Spanish
+* Hours: MWF 9am-5pm and Tuesday Thursday 9am-6pm
+* Website: <https://www.bsfhc.org/contact> 
+
+Brooklyn Hospital Center - WIC Program - Bedford-Stuyvesant
+
+* Address: 1606-1608 Fulton St, Brooklyn, NY 11213
+* Phone: [(718) 250-8397](tel:7182508397)
+* Status: regular and phone/virtual operations
+* Languages: English, Arabic, Cantonese, French, Hebrew, Hindi, Mandarin, Russian, Spanish, Tagalog, Yiddish
+* Hours: M-Thu 9am-5pm and Fri 8:30am-4pm
+* Website: <https://www.tbh.org/outpatient-care/wic-main-campus> 
+
+St. John’s Bread and Life Program - Single Stop
+
+* Address: 795 Lexington Ave, Brooklyn, NY 11221
+* Phone: [(718) 574-0058](tel:7185740058) ext. 125
+* Status: phone/virtual operations
+* Languages: English and Spanish
+* Hours: M-Thu 8am-2pm
+* Website: <https://www.tbh.org/outpatient-care/wic-main-campus> 
+
+**NYC Health and Hospitals/Woodhull - WIC Program**
+
+* Address: 760 Broadway, Brooklyn, NY 11206
+* Phone: [(718) 963-8306](tel:7189638306)
+* Status: regular and phone/virtual operations
+* Languages: English, Bengali, French, Haitian Creole, Mandarin, Polish, Spanish
+* Hours: M-F 8am-4pm
+* Website: <https://www.tbh.org/outpatient-care/wic-main-campus>
