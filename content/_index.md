@@ -3,44 +3,21 @@ title: Bed-Stuy Strong
 date: 2020-11-24T22:47:37-05:00
 draft: false
 ---
-Bed-Stuy Strong is a group of neighbors helping neighbors in a spirit of solidarity. We are a mutual aid network of over 4,000 people from across Bed-Stuy who are supporting each other and our communities during the COVID-19 crisis. We crowdsource donations and use them to provide no-contact grocery deliveries for vulnerable members of our Bed-Stuy communities.
+Bed-Stuy Strong was founded in March 2020 in response to the COVID-19 crisis, as an online community and a mutual aid network. We are a group of neighbors helping care for each other and organize to meet each other’s needs in a spirit of solidarity. Bed-Stuy Strong is not a non-profit or government agency or food pantry. We are a network of people committed to each other and to [a set of guiding principles](/principles), and together have built a series of community initiatives, from food and PPE provision, to voting and vaccine access, to political education reading groups and support for incarcerated neighbors.  
 
-All of our members are ordinary folks volunteering their time and effort. We are not a government agency or a non-profit. You can [learn more about our guiding principles here](/principles).
+From March 2020 until June 2021, Bed-Stuy Strong built and maintained a grassroots COVID-19 food security operation to attempt to address some fraction of the skyrocketing community need around hunger. Our work supported 28,000 people in Central Brooklyn with a week’s supply of home-delivered groceries. It raised and redistributed the equivalent of $1.2M in grassroots crowdsourced donations back into the community. For many, it created new bonds and relationships and the space to question systems that create scarcity around the things we all need to survive, like food and shelter. 
 
-Given the times, Bed-Stuy Strong faces an incredible amount of need in our communities. Every day we receive hundreds of calls. We spend several thousand dollars daily to try to make sure our neighbors do not go hungry. We ask for your patience and support as we try to connect our community’s help to our community’s need.
+BSS’s active intake phone line closes June 2, 2021. After June 2, 2021, callers can still access a list of food and benefits resources, but home grocery delivery will no longer be an option. This is a gratitude-filled end to our COVID-19 food provision model, and a pause to our food security organizing, which we continue to be committed to in the long term. We believe pausing our food provision operation is the best way to create space for a more sustainable and participatory long-term model for our food provision efforts as COVID-19 becomes a diminishing threat due to widespread vaccinations.
 
-## I am in need.
+Our non-food provision initiatives, from our reading group to street clean ups, from community swaps to our abolitionist working group, will continue. BSS remains and will remain an abundant container for community, organizing, connection, and care. 
 
-If you live in Bed-Stuy and are experiencing hunger, please leave us a voicemail or send a text message to [917-451-5522](tel:9174515522). We will call you back to coordinate a no-contact delivery of essential groceries or medical supplies. 
+What is mutual aid? Many definitions exist, but one simple one is: voluntary, often reciprocal care and support exchanged between people of a community, in a horizontal way, rooted in solidarity and joined hands. We do our work in the shadow of powerful organizing from the Black Panthers’ free clinics to abolitionist networks, and Bed-Stuy’s deep-rooted legacy of neighbors caring for each other in community.
 
-As of mid-January 2021, we have moved to a set number of weekly food delivery slots based on the number of people who can deliver and to avoid a long wait time for delivery. Our phone line opens Wednesdays at 3PM and closes once we have reached our capacity to deliver for the week. We apologize that we can’t meet your request immediately. We respond in the order that requests are received, so there is no need to leave multiple voicemails.
+## I want to support the vaccine access work, or join a street clean up, or join the political reading group, or ask if anyone can support me with a specific need, or get to know some of my neighbors better. 
 
-We understand that you might need food quicker than we can get it to you. If you are experiencing hunger right now, please see our below list of food resources in Bed-Stuy or go to [NYC.gov/getFood](http://nyc.gov/getFood). If you would like to hear a list of these resources over the phone, please call [917-451-5522](tel:9174515522). Thank you for your patience. Our thoughts are with you.
+That’s great. We’d love to have you. Please follow the instructions below to become a member of Bed-Stuy Strong.
 
-### A detailed list of food assistance options in Bed-Stuy and citywide is available here: [bedstuystrong.com/resources](/resources)
-
-Anyone willing to go to a grocery store to shop for another person and be reimbursed for the shopping out of our community fund can become a delivery volunteer; multiple delivery volunteers also have received food support. More delivery volunteers means that more people can get food each week. See below for details on how to join. Bed-Stuy Strong is built on the belief that all of us have needs and all of us can offer help. We believe in community care, joined hands, and dignity afforded to all people.  
-
-## I want to donate.
-
-One hundred percent of donations to Bed-Stuy Strong are used to purchase groceries and basic supplies for vulnerable neighbors. Households then receive what they need from our network of delivery volunteers – ordinary Bed-Stuy residents who are looking to help members of their community.
-
-We are grateful for every contribution. Every dollar you give has a direct impact on the safety and well-being of our Bed-Stuy neighbors. Since our founding in March, Bed-Stuy Strong purchased and delivered a week’s supply of groceries for over 22,000 neighbors, providing an estimated half a million meals. Many of the neighbors we've served are elderly, immunocompromised, or disabled.
-
-We accept financial donations using any of these platforms:
-
-**Venmo**: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of phone number: 7668)\
-**Cash App**: [$bedstuystrong](https://cash.app/$bedstuystrong)\
-**Paypal**: fund@bedstuystrong.com\
-**Zelle**: fund@bedstuystrong.com
-
-**We are now able to accept tax-deductible credit card and check donations through [our ioby page](https://ioby.org/bedstuystrong).** To donate by check, [mail a check to ioby](https://support.ioby.org/a/1220776-can-i-donate-to-an-ioby-campaign-by-check-or-cash).
-
-## What is mutual aid?
-
-Many definitions exist, but a simple one is: voluntary, often reciprocal care + support exchanged between people of a community, in a horizontal way, with solidarity and joined hands. We do our work in the shadow of powerful organizing from the Black Panthers’ free clinics to abolitionist networks, and the legacy of neighbors helping neighbors that has existed in Bed-Stuy since time immemorial.
-
-## I want to join. What’s next?
+## I want to join Bed-Stuy Strong. What’s next?
 
 We welcome anyone with strong ties to Bed-Stuy (current resident of, working in, family home, etc.) to become a member of the BSS community. Our members come from all walks of life, from service workers to software engineers to artists to full-time parents and caretakers, and represent a mix of newer and longstanding residents of Bed-Stuy.
 
@@ -48,20 +25,53 @@ We ask each other for help when we need it, and provide support when able to, in
 
 ### How does membership work?
 
+Bed-Stuy Strong is built on the belief that all of us have needs and all of us can offer help. We believe in community care, joined hands, and dignity afforded to all people. 
+
 We communicate, co-envision, organize, and share asks, offers, community news, volunteer and advocacy opportunities through these channels:
 
 * BSS Members Hub (an online website including community calendar, volunteer opportunities)
 * Slack (an online forum for organizing and coordinating)
-* [Email newsletter](https://bedstuystrong.com/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
+* [Email newsletter](https://bedstuystrong.com/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
 * Text message updates (optional)
 
 We do not require membership fees to join Bed-Stuy Strong, though some of our members choose to give back by contributing to our community fund.
 
 ### Ready to be a BSS member?
 
-[Sign up here!](https://bedstuystrong.com/membership) We’re excited to be in community with you.
+[Sign up here!](/membership) We’re excited to be in community with you. 
 
-## I’m interested in partnering **or helping locate a physical space**.
+## I need support to get a vaccine or want to support my elders in getting a vaccine.
+
+We know that it isn't easy for everyone to navigate the technology and changing requirements of getting vaccinated. Our members built a system to support the larger community. 
+
+If you're totally comfortable booking an appointment for yourself / your neighbor online, check out [our guide to getting an appointment](https://docs.google.com/document/d/1xzkVCcr5ttFEeoK-DXdb2iQ0ZB0yxYo40x51HFpoVlc/preview).
+
+Are you an elder or essential worker who can fill out a short form yourself, but can't go through the whole booking process? You can check your eligibility [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccine-eligibility.page), and fill out [Epicenter NYC's](https://airtable.com/shr7lRDaT8BroQKGk) form directly.
+
+Any Bed-Stuy neighbors who totally can't navigate the vaccine system themselves can call or text 917-551-5417 to receive help figuring out their eligibility, scheduling an appointment, or getting to an appointment. A Bed-Stuy Strong member will call back, ideally within a week, to answer questions and, if eligible, help you submit an Epicenter NYC intake form. You will receive a confirmation email or phone call from Epicenter once your appointment has been confirmed.
+
+## I need food.
+
+If you live in Bed-Stuy and are experiencing hunger, call 917-451-5522. Until June 2nd 2021, our phone line opens each week Wednesdays at 3PM and closes once we have reached our capacity to deliver for the week. After June 2, 2021, our own food operation will be on pause, but you can listen to a list of alternative food resources in the City. 
+
+We understand that you might need food quicker than we can get it to you. If you are experiencing hunger right now, please see our below list of food resources in Bed-Stuy or go to [NYC.gov/getFood](http://nyc.gov/getFood). If you would like to hear a list of these resources over the phone, please call 917-451-5522. Our thoughts are with you. 
+
+### A detailed list of food assistance options in Bed-Stuy and citywide is available here: [bedstuystrong.com/resources](/resources)
+
+## I want to donate money.
+
+Donations to Bed-Stuy Strong are redistributed towards neighbors who need support of some kind. We are grateful for every contribution. We accept financial donations using any of these platforms:
+
+Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of phone number: 7668)\
+Cash App: [$bedstuystrong](https://cash.app/$bedstuystrong)\
+Paypal: fund@bedstuystrong.com\
+Zelle: fund@bedstuystrong.com
+
+We are now able to accept tax-deductible credit card and check donations through [our ioby page](https://ioby.org/bedstuystrong). To donate by check, [mail a check to ioby](https://support.ioby.org/a/1220776-can-i-donate-to-an-ioby-campaign-by-check-or-cash).
+
+We also encourage people to look at investing in long term solutions to food security in Brooklyn. [Central Brooklyn Food Coop](http://cbfood.org/) and [Brooklyn Supported Agriculture](https://www.brooklynsupportedagriculture.com/) are Black-led cooperative initiatives that seek a future where everyone can eat and our food systems are sustainable.
+
+## I’m interested in partnering.
 
 As unemployment and economic hardship continues to grow due to the COVID-19 crisis, we are continuing to evolve to ensure we can continue supporting our neighbors in need. As part of this evolution, we are exploring potential partnerships with Brooklyn-based organizations and businesses that have expertise in food provision and distribution and access to physical space. If you’re interested in discussing partnership opportunities, please email us at [partnerships@bedstuystrong.com](mailto:partnerships@bedstuystrong.com).
 
