@@ -3,13 +3,13 @@ title: Resources
 ---
 #### Navigation
 
-* Mutual Aid Resources
-* Map of Pantries and Grab and Go Meals
-* Food Pantries
-* Dept. of Education Grab and Go Meal Sites
-* Delivery Services
-* Food Stamps (SNAP)
-* WIC
+* [Mutual Aid Resources](#mutual-aid-resources)
+* [Map of Pantries and Grab and Go Meals](#map-of-pantries-and-grab-and-go-meals)
+* [Food Pantries](#food-pantries)
+* [Dept. of Education Grab and Go Meal Sites](#dept-of-education-grab-and-go-meal-sites)
+* [Delivery Services](#delivery-services)
+* [Food Stamps (SNAP)](#food-stamps-snap)
+* [WIC](#wic)
 
 # Mutual Aid Resources
 
