@@ -15,7 +15,7 @@ title: Resources
 
 **Mutual Aid NYC**
 
-* We always recommend contacting [Mutual Aid NYC](https://mutualaid.nyc/) for more options: [(646) 437-8080](tel:6464378080). 
+* We always recommend contacting [Mutual Aid NYC](https://mutualaid.nyc/) at [(646) 437-8080](tel:6464378080) for more options
 * They have live operators available with these hours:
 
 | English                  | Spanish / Español         |
@@ -40,9 +40,13 @@ title: Resources
 * When: Saturdays at 3pm
 * More info: [instagram.com/feedthepeople_bedstuy](https://www.instagram.com/feedthepeople_bedstuy/) 
 
+
+
 # Map of Pantries and Grab and Go Meals
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1VfB3n1ODsHA4X0NziaW484csOR3j_cxq" width="640" height="480" frameborder="0"></iframe>
+
+
 
 # Food Pantries
 
