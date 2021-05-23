@@ -51,7 +51,7 @@ title: Resources
 **RiseBoro Community Partnership - Wellness Rising**
 
 * Address: 518 Bushwick Ave, Brooklyn, NY 11206
-* Phone: (917) 810-3156 or (512) 758-2387
+* Phone: [(917) 810-3156](tel:9178103156) or [(512) 758-2387](tel:5127582387)
 * Status: open
 * ID required: no
 * Hours: Tuesdays 12-3pm
@@ -60,7 +60,7 @@ title: Resources
 **City Harvest Mobile Market**
 
 * Address: 921 Myrtle Ave (Handball Court of Tompkins Houses), Brooklyn, NY 11206
-* P: (646) 412-0729
+* P: [(646) 412-0729](tel:6464120729)
 * ID required: no
 * Status: open
 * Hours: 1st Saturday and 3rd Wednesday of each month from 11am-1pm
@@ -68,7 +68,7 @@ title: Resources
 **Black Veterans for Social Justice**
 
 * Address: 665 Willoughby Ave, Brooklyn, NY 11206
-* Phone: (718) 852-6004
+* Phone: [(718) 852-6004](tel:7188526004)
 * ID required: no
 * Status: open
 * Hours: Wednesdays, 1pm-3pm or until food runs out
@@ -76,7 +76,7 @@ title: Resources
 **St. John the Baptist Roman Catholic Church**
 
 * Address: 333 Hart St
-* Phone: (718) 455-6864
+* Phone: [(718) 455-6864](tel:7184556864)
 * ID required: no
 * Status: open
 * Hours: Tuesdays 8am-3pm
@@ -84,7 +84,7 @@ title: Resources
 **Metro World Child**
 
 * Address: 871 Bushwick Ave
-* Phone: (718) 453-3352
+* Phone: [(718) 453-3352](tel:7184533352)
 * ID required: no
 * Staus: open
 * Hours: Saturdays, 10am-12:30pm
@@ -92,7 +92,7 @@ title: Resources
 **Overcoming Love Ministries - Pulaski Family Residence**
 
 * Address: 228 Pulaski St, Brooklyn, NY 11206
-* Phone: (718) 443-2267
+* Phone: [(718) 443-2267](tel:7184432267)
 * ID required: no
 * Status: open
 * Hours: Tuesdays 10:30am-12pm
@@ -100,7 +100,7 @@ title: Resources
 **Golden Harvest Food Pantry**
 
 * Address: 376 Throop Ave, Brooklyn, NY 11221
-* Phone: (718) 453-9490 ext. 224 or (718) 218-7129
+* Phone: [(718) 453-9490](tel:7184539490) ext. 224 or [(718) 218-7129](tel:7182187129)
 * ID required: yes
 * Status: open
 * Hours: Tuesdays and Thursdays 9am-12pm
@@ -108,7 +108,7 @@ title: Resources
 **St. John’s Bread and Life Program**
 
 * Address: 795 Lexington Ave, Brooklyn, NY 11221
-* Phone: (718) 574-0058
+* Phone: [(718) 574-0058](tel:7185740058)
 * Status: open
 * ID Required: yes
 * Hours: 
@@ -119,7 +119,7 @@ title: Resources
 **Open Door Family Life Center**
 
 * Address: 999 Greene Ave, Brooklyn, NY 11221
-* Phone: (718) 455-3545
+* Phone: [(718) 455-3545](tel:7184553545)
 * Status: open
 * ID Required: yes
 * Hours: Saturdays, 8:30-10:30am
@@ -127,7 +127,7 @@ title: Resources
 **Brooklyn Rescue Mission**
 
 * Address: 919 Gates Ave, Brooklyn, NY 11221
-* Phone: (917) 426-3001
+* Phone: [(917) 426-3001](tel:9174263001)
 * Status: open
 * ID Required: yes
 * Hours: Tues and Weds, 10-11:45am
@@ -135,7 +135,7 @@ title: Resources
 **Crossover Baptist Church Community Outreach Help Center - Soup Kitchen**
 
 * Address: 358 Kosciuszko St, Brooklyn, NY 11221
-* Phone: (718) 322-1200
+* Phone: [(718) 322-1200](tel:7183221200)
 * Status: open
 * ID required: unknown
 * Hours: Tuesdays 9-11am; Wednesdays 12-2pm; Thursdays 9-11am; Saturdays 12-2pm
@@ -145,7 +145,7 @@ title: Resources
 **Greater St. Stephen Church Food Pantry**
 
 * Address: 874 Myrtle Ave, Brooklyn, NY 11206
-* Phone: (718) 938-4532
+* Phone: [(718) 938-4532](tel:7189384532)
 * Status: open
 * ID Required: no
 * First-time visitors must provide proof of address and family composition
@@ -156,7 +156,7 @@ title: Resources
 **P.S. 297 Abraham Stockton**
 
 * Address: 700 Park Ave, Brooklyn, NY 11206
-* Phone: (718) 388-4581
+* Phone: [(718) 388-4581](tel:7183884581)
 * Status: unknown
 * ID Required: unknown
 * Hours: Mondays and Fridays 11am-5pm
@@ -164,7 +164,7 @@ title: Resources
 **Solid Rock Baptist Church**
 
 * Address: 120 Tompkins Ave, Brooklyn, NY 11206
-* Phone: (718) 679-4852
+* Phone: [(718) 679-4852](tel:7186794852)
 * Status: open
 * ID Required: yes
 * Hours: Monday and Thursday 9am-12pm
@@ -172,7 +172,7 @@ title: Resources
 **United Grand Chapter of Eastern Star**
 
 * Address: 441 Willoughby Ave, Brooklyn, NY 11206
-* Phone: (718) 624-2484
+* Phone: [(718) 624-2484](tel:7186242484)
 * Status: open
 * ID Required: yes
 * Hours: Fridays 10am-12pm
@@ -180,7 +180,7 @@ title: Resources
 **All People’s Church Apostolic Faith, Inc**
 
 * Address: 182 Tompkins Ave, Brooklyn, NY 11206
-* Phone: (718) 782-3703
+* Phone: [(718) 782-3703](tel:7187823703)
 * Status: open
 * ID Required: unknown
 * Hours: Saturdays 10am-12pm
@@ -196,7 +196,7 @@ title: Resources
 **Salvation Army, Bedford Temple Corps - Soup Kitchen**
 
 * Address: 110 Kosciuszko St, Brooklyn, NY 11216
-* Phone: (718) 398-7971
+* Phone: [(718) 398-7971](tel:7183987971)
 * Status: open
 * ID required: no
 * Hours: Thursdays, 10-11am
@@ -204,7 +204,7 @@ title: Resources
 **Salvation Army Brooklyn Bedford Corps Community Center**
 
 * Address: 601 Lafayette Ave, Brooklyn, NY 11216
-* Phone: (718) 622-0614
+* Phone: [(718) 622-0614](tel:7186220614)
 * Status: open
 * ID required: unknown
 * Hours: Wednesday, 10am-12pm 
@@ -212,7 +212,7 @@ title: Resources
 **Brooklyn Tabernacle Deliverance Center**
 
 * Address: 600 Lafayette Avenue, Brooklyn, NY 11216
-* Phone: (718) 636-5151 ext. 109 or (973) 768-5344
+* Phone: [(718) 636-5151](tel:7186365151) ext. 109 or [(973) 768-5344](tel:9737685344)
 * Status: open
 * ID required: yes
 * Hours: Schedule varies, please call number listed before visiting
@@ -220,7 +220,7 @@ title: Resources
 **The Migrant Kitchen at Lafayette Gardens**
 
 * Address: 343 Classon Ave, Brooklyn, NY 11205
-* Phone: (917) 747-5601
+* Phone: [(917) 747-5601](tel:9177475601)
 * Status: open
 * ID required: no
 * Hours: unknown
@@ -228,7 +228,7 @@ title: Resources
 **Child Development Support Corporation**
 
 * Address: 352 Classon Ave, #358, Brooklyn, NY 11238
-* Phone: (718) 398-2050 ext. 8401 or (917) 204-0276
+* Phone: [(718) 398-2050](tel:7183982050) ext. 8401 or [(917) 204-0276](tel:9172040276)
 * Status: open
 * ID required: yes
 * Hours: Thursdays, 11am-3pm
@@ -236,7 +236,7 @@ title: Resources
 **Macedonia Church of Christ**
 
 * Address: 289 Quincy St, Brooklyn, NY 11216
-* Phone: (917) 803-5135
+* Phone: [(917) 803-5135](tel:9178035135)
 * Status: open
 * ID required: yes
 * Hours: 2nd and 4th Tuesdays of the month, 12-2pm
@@ -246,7 +246,7 @@ title: Resources
 **Bridge Street AME Missionary Free Food Program**
 
 * Address: 277 Stuyvesant Ave, Brooklyn, NY 11221
-* Phone: (718) 452-3936
+* Phone: [(718) 452-3936](tel:7184523936)
 * Status: unknown
 * ID Required: unknown
 * Hours: Wednesday 11:00AM-1:30PM
@@ -254,7 +254,7 @@ title: Resources
 **United Methodist Parish, Haitian Evangelical Clergy - Food Pantry**
 
 * Address: 1139 Bushwick Avenue, Brooklyn, NY 11221
-* Phone: (718) 574-6610 or (347) 666-3381. Call to verify they're still operational
+* Phone: [(718) 574-6610](tel:7185746610) or [(347) 666-3381](tel:3476663381). Call to verify they're still operational
 * Status: unknown
 * ID Required: unknown
 * Hours: unknown
@@ -262,7 +262,7 @@ title: Resources
 **The Salvation Army Brooklyn Bushwick Corps Community Center - Soup Kitchen**
 
 * Address: 1151 Bushwick Ave, Brooklyn, NY 11221
-* Phone: (718) 455-4102
+* Phone: [(718) 455-4102](tel:7184554102)
 * Status: unknown
 * ID Required: unknown
 * Hours: Mondays, Tuesdays and Fridays, 10-11:30am
@@ -270,7 +270,7 @@ title: Resources
 **Faith Assemblies of God - Food Pantry**
 
 * Address: 1014 Gates Ave, Brooklyn, NY 11221
-* Phone: (646) 431-9729 or (347) 614-3235
+* Phone: [(646) 431-9729](tel:6464319729) or [(347) 614-3235](tel:3476143235)
 * Status: open
 * ID required: yes
 * Hours: 
@@ -281,7 +281,7 @@ title: Resources
 **Thurston Memorial Outreach Ministries**
 
 * Address: 1243 Bushwick Ave, Brooklyn, NY 11221
-* Phone: P: (718) 452-3646, (718) 452-3260 or (917) 432-7614
+* Phone: P: [(718) 452-3646](tel:7184523646), [(718) 452-3260](tel:7184523260) or [(917) 432-7614](tel:9174327614)
 * Status: open
 * ID required: unknown
 * Hours: Fridays 5-7:30pm
@@ -289,7 +289,7 @@ title: Resources
 **CORE Services Group**
 
 * Address: 771 MacDonough St, Brooklyn, NY 11233
-* Phone: (718) 453-3300
+* Phone: [(718) 453-3300](tel:7184533300)
 * Status: open
 * ID required: yes
 * Hours: Monday-Friday 9am-4pm
@@ -297,7 +297,7 @@ title: Resources
 **Cornerstone Baptist Church**
 
 * Address: 574 Madison St, Brooklyn, NY 11221
-* Phone: (718) 574-5900
+* Phone: [(718) 574-5900](tel:7185745900)
 * Status: closed
 * ID required: unknown
 * Hours: Tuesdays, 11am-1pm
@@ -305,7 +305,7 @@ title: Resources
 **St. Philips Episcopal Anglican Church**
 
 * Address: 265 Decatur St, Brooklyn, NY 11233
-* Phone: (718) 778-8700
+* Phone: [(718) 778-8700](tel:7187788700)
 * Status: open
 * ID required: no
 * Hours: Wednesdays, 9am-1pm
@@ -313,7 +313,7 @@ title: Resources
 **Faith-Based Food Distribution and Development Corp**
 
 * Address: 121 Chauncey St, Brooklyn, NY 11233
-* Phone: (917) 995-6891
+* Phone: [(917) 995-6891](tel:9179956891)
 * Status: open
 * ID required: no
 * Hours: Saturday 9am-12pm
@@ -322,7 +322,7 @@ title: Resources
 **King Emmanuel Community Services**
 
 * Address: 207A Bainbridge St, Brooklyn, NY 11233
-* Phone: (718) 733-1650
+* Phone: [(718) 733-1650](tel:7187331650)
 * Status: closed
 * ID required: unknown
 * Hours: Thursdays and Fridays, 10:30am-12pm
@@ -330,7 +330,7 @@ title: Resources
 **Union Baptist Church - Food Pantry**
 
 * Address: 461 Decatur St, Brooklyn, NY 11233
-* Phone: (718) 455-0204
+* Phone: [(718) 455-0204](tel:7184550204)
 * Status: open
 * ID required: no
 * Hours: Wednesdays, 12-2pm
@@ -338,7 +338,7 @@ title: Resources
 **Food Distribution Center - Unity Faith Outreach**
 
 * Address: 179 Ralph Avenue, Brooklyn, NY 11233
-* Phone: (718) 443-4194
+* Phone: [(718) 443-4194](tel:7184434194)
 * Status: open
 * ID required: no
 * Hours: Fridays, 12-2pm
@@ -346,7 +346,7 @@ title: Resources
 **Calvary African Methodist Episcopal Church SK**
 
 * Address: 790 Herkimer St, Brooklyn, NY 11233
-* Phone: (718) 467-0987
+* Phone: [(718) 467-0987](tel:7184670987)
 * Status: open
 * ID required: unknown
 * Hours: Tuesdays, 12-2pm grab and go meals
@@ -354,7 +354,7 @@ title: Resources
 **The Campaign Against Hunger**
 
 * Address: 2010 Fulton St, Brooklyn, NY 11233
-* Phone: (718) 773-3551
+* Phone: [(718) 773-3551](tel:7187733551)
 * Status: open
 * ID required: yes
 * Hours: 
@@ -365,7 +365,7 @@ title: Resources
 **St. Paul Pentecostal Church**
 
 * Address: 133 Thomas S Boyland St, Brooklyn, NY 11233
-* Phone: (917) 604-9644 or (718) 453-6393
+* Phone: [(917) 604-9644](tel:9176049644) or [(718) 453-6393](tel:7184536393)
 * Status: open
 * ID required: no
 * Hours: Saturdays 11am-1pm
@@ -373,7 +373,7 @@ title: Resources
 **Neighbors Together**
 
 * Address: 2094 Fulton St, Brooklyn, NY 11233
-* Phone: (718) 498-7256
+* Phone: [(718) 498-7256](tel:7184987256)
 * Status: unknown
 * ID required: unknown
 * Hours: Monday-Friday, 12-2pm: lunch, Monday-Thursday 4-6pm: dinner
@@ -381,7 +381,7 @@ title: Resources
 **Blessed Assurance Church of God Charity**
 
 * Address: 2093 Fulton St, Brooklyn, NY 11233
-* Phone: (347) 965-1725
+* Phone: [(347) 965-1725](tel:3479651725)
 * Status: open
 * ID required: yes
 * Hours: Saturdays, 6-11am
@@ -389,7 +389,7 @@ title: Resources
 **Calvary Free Will Baptist Church**
 
 * Address: 1520 Herkimer St, Brooklyn, NY 11207
-* Phone: (718) 498-3767
+* Phone: [(718) 498-3767](tel:7184983767)
 * Status: unknown
 * ID required: unknown
 * Hours: Wednesdays, 12-2pm and Thursdays, 12-1pm
@@ -397,7 +397,7 @@ title: Resources
 **True Holy Church of God in Christ Jesus**
 
 * Address: 2364 Atlantic Avenue, Brooklyn, NY 11233
-* Phone: (718) 385-0248
+* Phone: [(718) 385-0248](tel:7183850248)
 * Status: open
 * ID required: no
 * Hours: Saturdays, 10am-12pm
@@ -405,7 +405,7 @@ title: Resources
 **Glover Memorial Baptist Church**
 
 * Address: 2134 Dean St, Brooklyn, NY 11233
-* Phone: (347) 432-3065
+* Phone: [(347) 432-3065](tel:3474323065)
 * Status: open
 * ID required: no
 * Hours: 
@@ -416,7 +416,7 @@ title: Resources
 **God’s Deliverance Temple Inc**
 
 * Address: 438 Ralph Avenue, Brooklyn, NY 11233
-* Phone: (347) 234-3828
+* Phone: [(347) 234-3828](tel:3472343828)
 * Status: open
 * ID required: yes
 * Hours: 1st and 3rd Tuesday of the month, 11am-12pm
@@ -424,7 +424,7 @@ title: Resources
 **Mt. Lebanon Baptist Church - Soup Kitchen**
 
 * Address: 228 Decatur St, Brooklyn, NY 11233
-* Phone: (718) 493-8770
+* Phone: [(718) 493-8770](tel:7184938770)
 * Status: open
 * ID required: yes
 * Hours: Saturdays, 11am-12pm
@@ -434,7 +434,7 @@ title: Resources
 **Bethel Sunshine Camp**
 
 * Address: 344 Tompkins Ave, Brooklyn, NY 11216
-* Phone: (718) 789-0034 OR (347) 731-6824
+* Phone: [(718) 789-0034](tel:7187890034) OR [(347) 731-6824](tel:3477316824)
 * Status: open
 * ID Required: unknown
 * Hours: Tuesday 7PM-8PM; Friday 7PM-8PM
@@ -442,7 +442,7 @@ title: Resources
 **St. George’s Episcopal Church**
 
 * Address: 800 Marcy Ave, Brooklyn, NY 11216
-* Phone: (718) 789-6036
+* Phone: [(718) 789-6036](tel:7187896036)
 * Status: open
 * ID Required: no
 * Hours: 
@@ -453,7 +453,7 @@ title: Resources
 **Mount Hope Pilgrim Spiritual Baptist**
 
 * Address: 416 Nostrand Ave, Brooklyn, NY 11216
-* Phone: (718) 398-1284
+* Phone: [(718) 398-1284](tel:7183981284)
 * Status: unknown
 * ID Required: unknown
 * Hours: 
@@ -461,7 +461,7 @@ title: Resources
 **Siloam Presbyterian Church Food Pantry**
 
 * Address: 260 Jefferson Ave, Brooklyn, NY 11216
-* Phone: (718) 789-7050
+* Phone: [(718) 789-7050](tel:7187897050)
 * Status: open
 * ID Required: yes
 * Hours: Weds 9:30am-12:30pm
@@ -469,7 +469,7 @@ title: Resources
 **Newman Memorial United Methodist Church Community Development Corporation**
 
 * Address: 257 Macon St, Brooklyn, NY 11216
-* Phone: (718) 622-7955, (347) 526-5373
+* Phone: [(718) 622-7955](tel:7186227955), [(347) 526-5373](tel:3475265373)
 * Status: open
 * ID Required: yes
 * Hours: Wednesday 10:30AM-2:00PM
@@ -477,7 +477,7 @@ title: Resources
 **Stuyvesant Heights Christian Church Pantry**
 
 * Address: 69 MacDonough St, Brooklyn, NY 11216
-* Phone: (718) 783-5383
+* Phone: [(718) 783-5383](tel:7187835383)
 * Status: open
 * ID required: yes
 * Hours: Thursdays, 5-6pm
@@ -485,7 +485,7 @@ title: Resources
 **Beulah Church of God in Christ Jesus - Food Pantry**
 
 * Address: 956 Marcy Ave, Brooklyn, NY 11216
-* Phone: (718) 636-8500
+* Phone: [(718) 636-8500](tel:7186368500)
 * Status: open
 * ID required: unknown
 * Hours: 
@@ -496,7 +496,7 @@ title: Resources
 **Hebron French-speaking Seventh Day Adventist Church**
 
 * Address: 1256 Dean St, Brooklyn, NY 11216
-* Phone: (718) 778-6454
+* Phone: [(718) 778-6454](tel:7187786454)
 * Status: open
 * ID required: no
 * Hours: 
@@ -507,7 +507,7 @@ title: Resources
 **Bedford Central Presbyterian Church**
 
 * Address: 1200 Dean St, Brooklyn, NY 11216
-* Phone: (718) 467-0740
+* Phone: [(718) 467-0740](tel:7184670740)
 * Status: open
 * ID required: no
 * Hours: Thursdays, 1-3pm
@@ -519,7 +519,7 @@ title: Resources
 **P.S. 120 Carlos Tapia**
 
 * Address: 18 Beaver St, Brooklyn, NY 11206
-* Phone: (718) 443-9402
+* Phone: [(718) 443-9402](tel:7184439402)
 * Status: open
 * ID required: no
 * Hours: M-F 3-5pm
@@ -528,7 +528,7 @@ title: Resources
 **Brighter Choice Community School**
 
 * Address: 280 Hart St, Brooklyn, NY 11206
-* Phone: (718) 453-4081
+* Phone: [(718) 453-4081](tel:7184534081)
 * Status: open
 * ID required: no
 * Hours: M-F 3-5pm
