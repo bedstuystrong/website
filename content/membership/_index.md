@@ -1,5 +1,21 @@
 ---
 title: New Member Sign Up
+custom_css: |
+  h3 a {
+    color: inherit;
+  }
+
+  .airtable-embed {
+    margin-top: 1rem;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 500px) {
+    .airtable-embed {
+      margin-left: -2rem;
+      width: calc(100% + 4rem - 2px);
+    }
+  }
 ---
 ## New Member Sign Up
 
@@ -14,7 +30,7 @@ Signing up to become a BSS member means that you will:
 * Be invited to our online forum on Slack (for organizing/coordinating)
 * Get text message updates (optional)
 
-### [Our Guiding Principles](http://localhost:5000/principles)
+### [Our Guiding Principles](/principles)
 
 1. We move in **solidarity**.
 2. We do the work **humbly**.
@@ -23,13 +39,5 @@ Signing up to become a BSS member means that you will:
 5. We hold space for **joyful, compassionate, imaginative** work and thinking.
 
 As a BSS member, you are lovingly encouraged to move in solidarity with neighbors by asking for help when you need it, and providing support when you’re able to.
-
-### Donation
-
-While we don’t require membership dues, BSS relies on financial resource redistribution, and member contributions are greatly appreciated. As and when you’re able, you can donate to our community fund via ioby (tax-deductible), Venmo, Paypal or Cashapp to help continue our mutual aid work. Every dollar received is used to purchase groceries and basic supplies for our most vulnerable neighbors, many of whom are elderly, immunocompromised, or disabled.
-
-### Volunteering
-
-Volunteering is another great way to have a direct impact on the safety and well-being of many Brooklynites experiencing hardship. There are lots of ways to get involved.
 
 {{< airtable id="shrivcM7MkYJLanCx" height="2637" >}}
