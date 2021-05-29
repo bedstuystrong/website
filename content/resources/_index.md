@@ -1,6 +1,14 @@
 ---
 title: Resources
-custom_css: "h1 {margin-top: 2.5rem;}"
+custom_css: |
+  h1 {margin-top: 2.5rem;}
+
+  @media screen and (max-width: 500px) {
+    iframe {
+      margin-left: -2rem;
+      width: calc(100% + 4rem);
+    }
+  }
 ---
 # Food Resources
 
