@@ -17,6 +17,8 @@ custom_css: |
     }
   }
 ---
+**Note: Bed-Stuy Strong will be functioning in a limited capacity through the summer. Our food mutual aid operation will be on pause from June through September, and organizers will be on vacation from June 13th through July 11th. There will be no onboarding sessions for new members during the organizer vacation. We look forward to returning refreshed and picking up where we left off! If you are interested in joining us, please fill out the new member form and we’ll reach out to you by mid-to-late July.**
+
 ## New Member Sign Up
 
 Bed-Stuy Strong (BSS) is a mutual aid network of neighbors helping neighbors in a spirit of solidarity. All of our members are ordinary folks giving and receiving help.
