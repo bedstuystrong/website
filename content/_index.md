@@ -29,7 +29,7 @@ Bed-Stuy Strong is built on the belief that all of us have needs and all of us c
 
 We communicate, co-envision, organize, and share asks, offers, community news, volunteer and advocacy opportunities through these channels:
 
-* [BSS Members Hub](home.bedstuystrong.com) (an online resource hub including community calendar, volunteer opportunities)
+* [BSS Members Hub](https://home.bedstuystrong.com) (an online resource hub including community calendar, volunteer opportunities)
 * Slack (an online forum for organizing and coordinating)
 * [Email newsletter](https://bedstuystrong.com/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
 * Text message updates (optional)
