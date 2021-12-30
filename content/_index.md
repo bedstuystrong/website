@@ -40,15 +40,9 @@ We do not require membership fees to join Bed-Stuy Strong, though some of our me
 
 [Sign up here!](/membership) We’re excited to be in community with you. 
 
-## I need support to get a vaccine or want to support my elders in getting a vaccine.
+## I need help getting a COVID-19 vaccine, booster, or test.
 
-We know that it isn't easy for everyone to navigate the technology and changing requirements of getting vaccinated. Our members built a system to support the larger community. 
-
-If you're totally comfortable booking an appointment for yourself / your neighbor online, check out [our guide to getting an appointment](https://docs.google.com/document/d/1xzkVCcr5ttFEeoK-DXdb2iQ0ZB0yxYo40x51HFpoVlc/preview).
-
-Are you an elder or essential worker who can fill out a short form yourself, but can't go through the whole booking process? You can check your eligibility [here](https://www1.nyc.gov/site/doh/covid/covid-19-vaccine-eligibility.page), and fill out [Epicenter NYC's](https://airtable.com/shr7lRDaT8BroQKGk) form directly.
-
-Any Bed-Stuy neighbors who totally can't navigate the vaccine system themselves can call or text 917-551-5417 to receive help figuring out their eligibility, scheduling an appointment, or getting to an appointment. A Bed-Stuy Strong member will call back, ideally within a week, to answer questions and, if eligible, help you submit an Epicenter NYC intake form. You will receive a confirmation email or phone call from Epicenter once your appointment has been confirmed.
+We have created (and regularly update) a [Bed-Stuy specific guide on how to get a vaccine, booster, or rapid antigen / PCR test for COVID](https://docs.google.com/document/d/1qNNlW0V7pjF19U71XpmhWEykPIpK8R46DctPlcJuDHs/). If you'd like to get involved in efforts to help our neighbors get vaccinated and boosted, please join the #vax_support channel on our Slack.
 
 ## I need food.
 
