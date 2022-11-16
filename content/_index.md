@@ -58,7 +58,6 @@ Donations to Bed-Stuy Strong are redistributed towards neighbors who need suppor
 
 Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of phone number: 7668)\
 Cash App: [$bedstuystrong](https://cash.app/$bedstuystrong)\
-Paypal: fund@bedstuystrong.com\
 Zelle: fund@bedstuystrong.com
 
 We are now able to accept tax-deductible credit card and check donations through [our ioby page](https://ioby.org/bedstuystrong). To donate by check, [mail a check to ioby](https://support.ioby.org/a/1220776-can-i-donate-to-an-ioby-campaign-by-check-or-cash).
