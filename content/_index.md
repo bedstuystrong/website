@@ -56,7 +56,7 @@ We understand that you might need food quicker than we can get it to you. If you
 
 Donations to Bed-Stuy Strong are redistributed towards neighbors who need support of some kind. We are grateful for every contribution. We accept financial donations using any of these platforms:
 
-Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of phone number: 7668)\
+Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of phone number: 3658)\
 Cash App: [$bedstuystrong](https://cash.app/$bedstuystrong)\
 Zelle: fund@bedstuystrong.com
 
