@@ -42,7 +42,7 @@ Our collectively adopted guiding principles as a network are:
 2.  ### We do the work **humbly.**
     
     1.  We were founded in March of 2020 to help our community in the face of the COVID-19 crisis, and many of our members are relative newcomers to mutual aid work. We believe in doing the work, humbly and resolutely, and we see our role as that of a gap filler, part of a vast quilt of different efforts to take care of our communities.
-    2.  We aim to work in partnership with longstanding civic and local organizations in doing this work, both out of respect and to avoid replicating work, particularly when other organizations are already fulfilling a community need well (e.g. HousingJustice4All does housing advocacy far more effectively than we can).
+    2.  We aim to work in partnership with longstanding civic and local organizations in doing this work, both out of respect and to avoid replicating work, particularly when other organizations are already fulfilling a community need well.
     3.  Bed-Stuy Strong was formed to respond to an unprecedented and calamitous global crisis that has been compared to the Great Depression in its predicted economic impact. We own the finiteness of our capacity in the face of tremendous need, acknowledge that we alone cannot meet that need, and pledge to do what we can well.
     4.  Bed-Stuy Strong operates in the context of a city shaped in part by racism, economic disparity, displacement, and violence. Given that many (though certainly not all) of Bed-Stuy Strong members are not native to Bed-Stuy, we collectively pledge to honor, and continue to educate each other on, the neighborhood’s rich history, culture, and legacy of resistance.
 3.  ### We draw on our neighborhood’s legacy of **resourcefulness.**
