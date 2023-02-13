@@ -25,4 +25,8 @@ collections:
         default_language: 'css'
         allow_language_selection: false
         output_code_only: true
+      - label: 'Flex column layout'
+        name: 'flex_column'
+        required: false
+        widget: 'boolean'
     meta: { path: { widget: string, label: 'Path', index_file: '_index' } }

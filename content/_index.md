@@ -31,7 +31,7 @@ We communicate, co-envision, organize, and share asks, offers, community news, v
 
 * [BSS Members Hub](https://home.bedstuystrong.com) (an online resource hub including community calendar, volunteer opportunities)
 * Slack (an online forum for organizing and coordinating)
-* [Email newsletter](https://bedstuystrong.com/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
+* [Email newsletter](/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
 * Text message updates (optional)
 
 We do not require membership fees to join Bed-Stuy Strong, though some of our members choose to give back by contributing to our community fund.
