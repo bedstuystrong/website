@@ -60,7 +60,11 @@ Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of pho
 Cash App: [$bedstuystrong](https://cash.app/$bedstuystrong)\
 Zelle: fund@bedstuystrong.com
 
-We are now able to accept tax-deductible credit card and check donations through [our ioby page](https://ioby.org/bedstuystrong). ioby also supports [recurring donations](https://app.mobilecause.com/form/eDrXtQ?init[project_id]=87865&init[user_uid]=0&init[heading]=%3Ch4%3E%3Ccenter%3EHelp%20%3Ca%20href%3D%27https%3A%2F%2Fioby.org%2Fnode%2F87865%2F%27%3EBed-Stuy%20Strong%E2%80%99s%20Mutual%20Aid%20Community%20Fund%3C%2Fa%3E%20by%20making%20an%20ongoing%20donation%21%3C%2Fcenter%3E%3C%2Fh4%3E&init[Include_support_for_ioby]=0.20&vid=q2sj4). To donate by check, [mail a check to ioby](https://support.ioby.org/a/1220776-can-i-donate-to-an-ioby-campaign-by-check-or-cash).
+If you'd like to donate by check, please send us an email. 
+
+To join our recurring donor program and get a monthly reminder to donate, [fill out this form](https://airtable.com/appy1alZdo13D8l8Y/pag6lxocQHAmTM05X/form). 
+
+We are unfortunately no longer able to accept tax-deductible donations. 
 
 We also encourage people to look at investing in long term solutions to food security in Brooklyn. [Central Brooklyn Food Coop](http://cbfood.org/) and [Brooklyn Supported Agriculture](https://www.brooklynsupportedagriculture.com/) are Black-led cooperative initiatives that seek a future where everyone can eat and our food systems are sustainable.
 
