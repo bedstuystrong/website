@@ -2,6 +2,9 @@
   publish = 'public'
   command = 'hugo --gc --minify'
 
+[dev]
+  framework = "hugo"
+
 [[redirects]]
   from = "/volunteer"
   to = "/membership"
@@ -17,4 +20,8 @@
 [[redirects]]
   from = "/systems"
   to = "https://docs.google.com/document/d/1b9RVSexqztRlLpDPT603UTORNUpkhJXtXq8BPHH_mTw/edit"
+  status = 302
+[[redirects]]
+  from = "/donate-monthly"
+  to = "https://airtable.com/appy1alZdo13D8l8Y/pag6lxocQHAmTM05X/form"
   status = 302

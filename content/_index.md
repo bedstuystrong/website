@@ -62,7 +62,7 @@ Zelle: fund@bedstuystrong.com
 
 If you'd like to donate by check, please send us an email. 
 
-To join our recurring donor program and get a monthly reminder to donate, [fill out this form](https://airtable.com/appy1alZdo13D8l8Y/pag6lxocQHAmTM05X/form). 
+To join our recurring donor program and get a monthly reminder to donate, [fill out this form](/donate-monthly). 
 
 We are unfortunately no longer able to accept tax-deductible donations. 
 
