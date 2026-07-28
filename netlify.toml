@@ -1,9 +1,6 @@
 [build]
   publish = 'public'
-  command = 'hugo --config hugo.yaml --gc --minify'
-
-[dev]
-  framework = "hugo"
+  command = 'eleventy --config=eleventy.config.ts'
 
 [[redirects]]
   from = "/volunteer"

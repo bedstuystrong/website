@@ -17,6 +17,7 @@ custom_css: |
     }
   }
 ---
+
 ## New Member Sign Up
 
 Bed-Stuy Strong (BSS) is a mutual aid network of neighbors helping neighbors in a spirit of solidarity. All of our members are ordinary folks giving and receiving help.
@@ -25,10 +26,10 @@ Since COVID-19 hit NYC in March 2020, hundreds of BSS members have been part of 
 
 Signing up to become a BSS member means that you will:
 
-* Receive our weekly newsletter by email (volunteer opportunities, events, asks/offers)
-* Have access to our online BSS Members Hub (community calendar, working groups)
-* Be invited to our online forum on Slack (for organizing/coordinating)
-* Get text message updates (optional)
+- Receive our weekly newsletter by email (volunteer opportunities, events, asks/offers)
+- Have access to our online BSS Members Hub (community calendar, working groups)
+- Be invited to our online forum on Slack (for organizing/coordinating)
+- Get text message updates (optional)
 
 ### [Our Guiding Principles](/principles)
 
@@ -40,4 +41,4 @@ Signing up to become a BSS member means that you will:
 
 As a BSS member, you are lovingly encouraged to move in solidarity with neighbors by asking for help when you need it, and providing support when you’re able to.
 
-{{< airtable id="shrivcM7MkYJLanCx" height="2637" >}}
+{% include airtable.html.liquid, id: "shrivcM7MkYJLanCx", height: 2637 %}

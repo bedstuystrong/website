@@ -1,14 +1,15 @@
-{{ $subscribeAction := getenv "HUGO_EMAIL_SUBSCRIBE_FORM_URL" }}
 <script src="https://js.hcaptcha.com/1/api.js" async defer></script>
 <style type="text/css">
   #subscribe-email {
     width: 302px;
     max-width: 100%;
   }
+
   #subscribe-email label,
   #subscribe-email button {
     margin: 1rem 0;
   }
+
   #subscribe-email .h-captcha {
     margin-bottom: 0;
   }
@@ -18,13 +19,12 @@
     display: flex;
     gap: 1rem;
   }
+
   #subscribe-email label input {
     flex: 1;
   }
 
-  #subscribe-email button[type=submit] {
-
-  }
+  #subscribe-email button[type=submit] {}
 
   #form-error:not(:empty) {
     color: rgb(166, 0, 0);
@@ -39,7 +39,7 @@
     font-family: monospace;
   }
 </style>
-<form id="subscribe-email" action="{{ $subscribeAction }}" method="post">
+<form id="subscribe-email" action="{{ site.emailSubscribeFormUrl }}" method="post">
   <label>
     <span>Email</span>
     <input type="text" name="email" placeholder="" required />
@@ -59,7 +59,7 @@
     formButton.disabled = true;
 
     try {
-      const response = await fetch("{{ $subscribeAction }}", {
+      const response = await fetch("{{ site.emailSubscribeFormUrl }}", {
         method: "POST",
         body: formData,
       });

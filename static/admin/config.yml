@@ -1,16 +1,16 @@
 backend:
   name: github
   repo: bedstuystrong/website
-  branch: main
+  branch: cubeghost/eleventy
   squash_merges: true
 publish_mode: editorial_workflow
-media_folder: 'static/images/uploads'
-public_folder: '/images/uploads'
+media_folder: 'static/images'
+public_folder: '/images'
 collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
-    folder: 'content/'
+    folder: 'src/'
     create: true
     slug: '{{slug}}'
     summary: '{{title}} | /{{dirname}}'
@@ -32,4 +32,4 @@ collections:
         name: 'flex_column'
         required: false
         widget: 'boolean'
-    meta: { path: { widget: string, label: 'Path', index_file: '_index' } }
+    meta: { path: { widget: string, label: 'Path' } }

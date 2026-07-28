@@ -1,8 +1,7 @@
 ---
 title: Bed-Stuy Strong
-date: 2020-11-24T22:47:37-05:00
-draft: false
 ---
+
 Bed-Stuy Strong was founded in March 2020 in response to the COVID-19 crisis, as an online community and a mutual aid network. We are a group of neighbors helping care for each other and organize to meet each other’s needs in a spirit of solidarity. Bed-Stuy Strong is not a non-profit or government agency or food pantry. We are a network of people committed to each other and to [a set of guiding principles](/principles), and together have built a series of community initiatives, from food and PPE provision, to voting and vaccine access, to political education reading groups and support for incarcerated neighbors.  
 
 From March 2020 until June 2021, Bed-Stuy Strong built and maintained a grassroots COVID-19 food security operation to attempt to address some fraction of the skyrocketing community need around hunger. Our work supported 28,000 people in Central Brooklyn with a week’s supply of home-delivered groceries. It raised and redistributed the equivalent of $1.2M in grassroots crowdsourced donations back into the community. For many, it created new bonds and relationships and the space to question systems that create scarcity around the things we all need to survive, like food and shelter. 
@@ -29,10 +28,10 @@ Bed-Stuy Strong is built on the belief that all of us have needs and all of us c
 
 We communicate, co-envision, organize, and share asks, offers, community news, volunteer and advocacy opportunities through these channels:
 
-* [BSS Members Hub](https://home.bedstuystrong.com) (an online resource hub including community calendar, volunteer opportunities)
-* Slack (an online forum for organizing and coordinating)
-* [Email newsletter](/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
-* Text message updates (optional)
+- [BSS Members Hub](https://home.bedstuystrong.com) (an online resource hub including community calendar, volunteer opportunities)
+- Slack (an online forum for organizing and coordinating)
+- [Email newsletter](/newsletter) and [Instagram](https://instagram.com/bedstuystrong) (events, asks/offers)
+- Text message updates (optional)
 
 We do not require membership fees to join Bed-Stuy Strong, though some of our members choose to give back by contributing to our community fund.
 
@@ -60,11 +59,11 @@ Venmo: [bedstuystrong](http://www.venmo.com/BedStuyStrong) (last 4 digits of pho
 Cash App: [$bedstuystrong](https://cash.app/$bedstuystrong)\
 Zelle: fund@bedstuystrong.com
 
-If you'd like to donate by check, please send us an email. 
+If you'd like to donate by check, please send us an email.
 
-To join our recurring donor program and get a monthly reminder to donate, [fill out this form](/donate-monthly). 
+To join our recurring donor program and get a monthly reminder to donate, [fill out this form](/donate-monthly).
 
-We are unfortunately no longer able to accept tax-deductible donations. 
+We are unfortunately no longer able to accept tax-deductible donations.
 
 We also encourage people to look at investing in long term solutions to food security in Brooklyn. [Central Brooklyn Food Coop](http://cbfood.org/) and [Brooklyn Supported Agriculture](https://www.brooklynsupportedagriculture.com/) are Black-led cooperative initiatives that seek a future where everyone can eat and our food systems are sustainable.
 
