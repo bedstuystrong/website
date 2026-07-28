@@ -1,0 +1,8 @@
+---
+layout: false
+permalink: /_redirects
+---
+{% for item in redirects %}
+{%- assign redirect = item[1] -%}
+{{ redirect.from }}	{{ redirect.to }}	{% if redirect.permanent == true %}301{% else %}302{% endif %}
+{% endfor %}
