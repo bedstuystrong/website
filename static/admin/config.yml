@@ -6,6 +6,10 @@ backend:
 publish_mode: editorial_workflow
 media_folder: 'static/images'
 public_folder: '/images'
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
 collections:
   - name: 'pages'
     label: 'Pages'
@@ -13,7 +17,7 @@ collections:
     folder: 'src/'
     create: true
     slug: '{{slug}}'
-    summary: '{{title}} | /{{dirname}}'
+    summary: '{{title}} | {{slug}}'
     nested:
       depth: 10
     editor:
@@ -33,3 +37,28 @@ collections:
         required: false
         widget: 'boolean'
     meta: { path: { widget: string, label: 'Path' } }
+  - name: 'redirects'
+    label: 'Redirects'
+    label_singular: 'Redirect'
+    folder: 'src/_data/redirects'
+    extension: 'json'
+    create: true
+    slug: '{{from}}'
+    summary: "{{from}} → {{to | truncate(48, '...')}} {{permanent | ternary('(permanent)', '')}}"
+    editor:
+      preview: false
+    fields:
+      - label: 'From path'
+        name: 'from'
+        widget: 'string'
+        pattern: ['^\/', "Path must start with /"]
+        hint: 'Path to redirect from (must start with `/`)'
+      - label: 'To'
+        name: 'to'
+        widget: 'string'
+        hint: 'Path (`/example`) or URL (`https://example.com/`) to redirect to'
+        pattern: ['^(\/|https:\/\/)', "Must start with / or https://"]
+      - label: 'Permanent?'
+        name: 'permanent'
+        widget: 'boolean'
+        hint: "Only enable this if you're sure the redirect won't change in the future"
