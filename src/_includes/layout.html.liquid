@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }}{% if page.url != "/" %} | {{ site.title }}{% endif %}</title>
+  <link rel="stylesheet" type="text/css" href="/style.css">
+  {%- if custom_css %}<style type="text/css">{{ custom_css }}</style>{% endif -%}
+  {% block head %}{% endblock %}
+</head>
+
+  <body>
+    <header>
+      <h1>
+        <a href="/">
+          {% image "/logo.png", "Bed-Stuy Strong", 140 %}
+        </a>
+      </h1>
+    </header>
+    <main class="{% if flex_column %}flex-column{% endif %}">
+      {{ content }}
+    </main>
+  </body>
+</html>
