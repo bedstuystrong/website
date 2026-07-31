@@ -1,7 +1,6 @@
 ---
 layout: false
 permalink: admin/index.html
-title: Content Manager
 eleventyExcludeFromCollections: true
 ---
 <!doctype html>
@@ -147,12 +146,9 @@ eleventyExcludeFromCollections: true
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   <script>
     const { CMS, initCMS: init } = window;
-
     init({ config: config });
 
-    console.log(CMS)
-
-    // Preview
+    // Custom preview (custom CSS and slug preview)
     CMS.registerPreviewStyle('/style.css');
     const preStyle = {
       display: 'block',
@@ -184,8 +180,9 @@ eleventyExcludeFromCollections: true
         );
       }
     });
-
     CMS.registerPreviewTemplate('pages', PagePreview);
+
+    // Custom editor components for _includes
 
     {% raw %}
     // _includes/email.html.liquid
